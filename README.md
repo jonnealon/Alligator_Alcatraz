@@ -10,5 +10,6 @@ Track charter flight patterns to document migrant transportation operations and 
 ## Data Collection
 - Source: OpenSky Network (public ADS-B data)
 - Frequency: Every 30 minutes
+- 
 - Coverage: 10km radius around airport
 - Logged: Aircraft ID, altitude, timestamp, flight status
