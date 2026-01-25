@@ -1,0 +1,36 @@
+name: Monitor Dade-Collier Flights
+
+on:
+  schedule:
+    # Runs every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  monitor-flights:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests
+        
+    - name: Monitor flight activity
+      run: |
+        python monitor_dade_collier.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "Update flight detections $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+        git push
