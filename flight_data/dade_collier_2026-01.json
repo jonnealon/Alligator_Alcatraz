@@ -50,5 +50,20 @@
     "heading": 104.89,
     "on_ground": false,
     "status": "CRUISING"
+  },
+  {
+    "timestamp": "2026-01-25T16:52:56.754812",
+    "icao24": "a9501f",
+    "callsign": "N7CS",
+    "latitude": 25.9255,
+    "longitude": -80.6634,
+    "altitude_m": 8031.48,
+    "altitude_ft": 26350,
+    "velocity_ms": 252.32,
+    "heading": 108.18,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
