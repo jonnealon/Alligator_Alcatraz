@@ -13,3 +13,5 @@ Track charter flight patterns to document migrant transportation operations and 
 - 
 - Coverage: 10km radius around airport
 - Logged: Aircraft ID, altitude, timestamp, flight status
+
+last updates 2/9/26
