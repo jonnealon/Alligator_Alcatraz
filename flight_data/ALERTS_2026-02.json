@@ -120,5 +120,22 @@
       "WATCH_CALLSIGN:GXA"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-12T23:01:40.911499",
+    "icao24": "a6667d",
+    "callsign": "N511PT",
+    "latitude": 25.8543,
+    "longitude": -81.0077,
+    "altitude_m": 487.68,
+    "altitude_ft": 1600,
+    "velocity_ms": 43.92,
+    "heading": 275.38,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
