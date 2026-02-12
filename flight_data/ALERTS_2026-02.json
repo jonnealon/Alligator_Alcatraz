@@ -103,5 +103,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-12T21:52:03.304599",
+    "icao24": "a835d1",
+    "callsign": "GXA161",
+    "latitude": 25.8601,
+    "longitude": -80.8902,
+    "altitude_m": 2484.12,
+    "altitude_ft": 8150,
+    "velocity_ms": 127.15,
+    "heading": 104.77,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "WATCH_CALLSIGN:GXA"
+    ],
+    "is_alert": true
   }
 ]
