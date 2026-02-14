@@ -2009,5 +2009,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-14T22:55:27.714717",
+    "icao24": "a8e2d6",
+    "callsign": "DAL1716",
+    "latitude": 25.8722,
+    "longitude": -80.6841,
+    "altitude_m": 1181.1,
+    "altitude_ft": 3875,
+    "velocity_ms": 118.15,
+    "heading": 203.89,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
