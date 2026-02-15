@@ -2274,5 +2274,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-15T15:52:20.742753",
+    "icao24": "aba8ff",
+    "callsign": "SCX415",
+    "latitude": 25.7845,
+    "longitude": -80.7012,
+    "altitude_m": 1950.72,
+    "altitude_ft": 6400,
+    "velocity_ms": 97.75,
+    "heading": 112.92,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
