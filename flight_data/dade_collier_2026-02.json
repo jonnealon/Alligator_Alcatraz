@@ -2071,5 +2071,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-15T07:46:17.366502",
+    "icao24": "a0a644",
+    "callsign": "CSB7515",
+    "latitude": 25.7918,
+    "longitude": -80.7208,
+    "altitude_m": 1866.9,
+    "altitude_ft": 6125,
+    "velocity_ms": 134.36,
+    "heading": 113.23,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
