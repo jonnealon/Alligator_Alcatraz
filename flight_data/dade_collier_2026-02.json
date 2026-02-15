@@ -2289,5 +2289,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-15T17:01:25.797698",
+    "icao24": "a8721f",
+    "callsign": "VJA643",
+    "latitude": 25.8983,
+    "longitude": -81.0139,
+    "altitude_m": 3200.4,
+    "altitude_ft": 10500,
+    "velocity_ms": 171.64,
+    "heading": 125.98,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
