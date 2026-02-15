@@ -290,5 +290,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-15T13:57:19.232119",
+    "icao24": "a1aa33",
+    "callsign": "N206VL",
+    "latitude": 25.8769,
+    "longitude": -80.6357,
+    "altitude_m": 30.48,
+    "altitude_ft": 100,
+    "velocity_ms": 46.83,
+    "heading": 324.39,
+    "on_ground": false,
+    "status": "VERY_LOW",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
