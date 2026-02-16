@@ -426,5 +426,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-16T22:01:27.788855",
+    "icao24": "ae5b6c",
+    "callsign": "RAIDR45",
+    "latitude": 25.8922,
+    "longitude": -81.2048,
+    "altitude_m": 2590.8,
+    "altitude_ft": 8500,
+    "velocity_ms": 149.07,
+    "heading": 96.34,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "MILITARY"
+    ],
+    "is_alert": true
   }
 ]
