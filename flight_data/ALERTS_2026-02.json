@@ -750,5 +750,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-19T23:01:50.221496",
+    "icao24": "ad4891",
+    "callsign": "N955PT",
+    "latitude": 25.8109,
+    "longitude": -80.6502,
+    "altitude_m": 304.8,
+    "altitude_ft": 1000,
+    "velocity_ms": 56.65,
+    "heading": 309.47,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
