@@ -903,5 +903,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-20T16:03:28.713487",
+    "icao24": "ae1192",
+    "callsign": "LOBO882",
+    "latitude": 25.9384,
+    "longitude": -80.6401,
+    "altitude_m": 9753.6,
+    "altitude_ft": 32000,
+    "velocity_ms": 205.73,
+    "heading": 183.87,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "MILITARY"
+    ],
+    "is_alert": true
   }
 ]
