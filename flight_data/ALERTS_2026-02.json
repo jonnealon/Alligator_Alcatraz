@@ -971,5 +971,22 @@
       "MILITARY"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-20T19:54:49.837630",
+    "icao24": "a0f9b2",
+    "callsign": "TROY308",
+    "latitude": 25.8739,
+    "longitude": -80.9493,
+    "altitude_m": 213.36,
+    "altitude_ft": 700,
+    "velocity_ms": 77.73,
+    "heading": 239.36,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
