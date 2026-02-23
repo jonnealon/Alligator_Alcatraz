@@ -1261,5 +1261,22 @@
       "MILITARY"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-23T05:05:11.955568",
+    "icao24": "a3e911",
+    "callsign": "FFT3442",
+    "latitude": 25.916,
+    "longitude": -81.0436,
+    "altitude_m": 5364.48,
+    "altitude_ft": 17600,
+    "velocity_ms": 212.4,
+    "heading": 115.39,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
