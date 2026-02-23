@@ -7023,5 +7023,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-23T13:49:38.039265",
+    "icao24": "abbb24",
+    "callsign": "AAL1020",
+    "latitude": 25.8666,
+    "longitude": -80.9015,
+    "altitude_m": 4701.54,
+    "altitude_ft": 15425,
+    "velocity_ms": 197.86,
+    "heading": 111.03,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
