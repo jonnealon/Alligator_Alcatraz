@@ -7494,5 +7494,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-24T17:35:59.568329",
+    "icao24": "a2cafb",
+    "callsign": "N2795J",
+    "latitude": 25.791,
+    "longitude": -80.7411,
+    "altitude_m": 845.82,
+    "altitude_ft": 2775,
+    "velocity_ms": 51.56,
+    "heading": 294.78,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
