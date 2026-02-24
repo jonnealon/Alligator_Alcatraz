@@ -7295,5 +7295,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-24T02:47:54.671777",
+    "icao24": "0d10fd",
+    "callsign": "VOI9643",
+    "latitude": 25.7844,
+    "longitude": -80.6648,
+    "altitude_m": 1752.6,
+    "altitude_ft": 5750,
+    "velocity_ms": 127.07,
+    "heading": 270.23,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
