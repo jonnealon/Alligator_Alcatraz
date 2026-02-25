@@ -7832,5 +7832,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-25T02:48:44.602782",
+    "icao24": "adab44",
+    "callsign": "N980BG",
+    "latitude": 25.9343,
+    "longitude": -80.8204,
+    "altitude_m": 1828.8,
+    "altitude_ft": 6000,
+    "velocity_ms": 144.03,
+    "heading": 64.17,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
