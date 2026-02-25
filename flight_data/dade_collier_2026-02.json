@@ -8335,5 +8335,99 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-25T22:41:32.297800",
+    "icao24": "a808bb",
+    "callsign": "N61697",
+    "latitude": 25.7682,
+    "longitude": -80.6746,
+    "altitude_m": 213.36,
+    "altitude_ft": 700,
+    "velocity_ms": 45.28,
+    "heading": 88.7,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-25T22:41:32.297854",
+    "icao24": "a34e6a",
+    "callsign": "ENY4167",
+    "latitude": 25.8484,
+    "longitude": -80.9777,
+    "altitude_m": 8168.64,
+    "altitude_ft": 26800,
+    "velocity_ms": 210.57,
+    "heading": 2.24,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-25T22:41:32.297873",
+    "icao24": "ad4386",
+    "callsign": "N954AC",
+    "latitude": 25.7955,
+    "longitude": -80.6124,
+    "altitude_m": 182.88,
+    "altitude_ft": 600,
+    "velocity_ms": 45.81,
+    "heading": 181.93,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-25T22:41:32.297888",
+    "icao24": "a4acae",
+    "callsign": "AAL2685",
+    "latitude": 25.9188,
+    "longitude": -81.0492,
+    "altitude_m": 3268.98,
+    "altitude_ft": 10725,
+    "velocity_ms": 178.32,
+    "heading": 115.83,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-25T22:41:32.297902",
+    "icao24": "a9cd9f",
+    "callsign": "N73010",
+    "latitude": 25.915,
+    "longitude": -80.7664,
+    "altitude_m": 548.64,
+    "altitude_ft": 1800,
+    "velocity_ms": 57.93,
+    "heading": 311.76,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-25T22:41:32.297915",
+    "icao24": "a69582",
+    "callsign": "EJA523",
+    "latitude": 25.9052,
+    "longitude": -80.6212,
+    "altitude_m": 571.5,
+    "altitude_ft": 1875,
+    "velocity_ms": 86.22,
+    "heading": 103.46,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
