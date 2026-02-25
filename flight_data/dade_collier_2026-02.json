@@ -7984,5 +7984,52 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-25T14:58:24.196333",
+    "icao24": "a0f9b2",
+    "callsign": "TROY308",
+    "latitude": 25.8929,
+    "longitude": -80.9421,
+    "altitude_m": 251.46,
+    "altitude_ft": 825,
+    "velocity_ms": 72.57,
+    "heading": 181.62,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-25T14:58:24.196372",
+    "icao24": "a9cd9f",
+    "callsign": "N73010",
+    "latitude": 25.8316,
+    "longitude": -80.9047,
+    "altitude_m": 701.04,
+    "altitude_ft": 2300,
+    "velocity_ms": 42.53,
+    "heading": 122.15,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-25T14:58:24.196384",
+    "icao24": "ac9e31",
+    "callsign": "OZN912",
+    "latitude": 25.8484,
+    "longitude": -81.1126,
+    "altitude_m": 1280.16,
+    "altitude_ft": 4200,
+    "velocity_ms": 51.9,
+    "heading": 287.9,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
