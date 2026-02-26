@@ -1516,5 +1516,22 @@
       "WATCH_CALLSIGN:GXA"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-02-26T16:00:04.004805",
+    "icao24": "addde9",
+    "callsign": "BHR93",
+    "latitude": 25.8671,
+    "longitude": -80.9562,
+    "altitude_m": 274.32,
+    "altitude_ft": 900,
+    "velocity_ms": 59.55,
+    "heading": 121.22,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
