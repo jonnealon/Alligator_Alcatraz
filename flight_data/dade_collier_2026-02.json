@@ -9947,5 +9947,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-27T20:38:15.982156",
+    "icao24": "a57a1d",
+    "callsign": "LXJ452",
+    "latitude": 25.8764,
+    "longitude": -80.7329,
+    "altitude_m": 2026.92,
+    "altitude_ft": 6650,
+    "velocity_ms": 119.16,
+    "heading": 159.53,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
