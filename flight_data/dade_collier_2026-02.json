@@ -11188,5 +11188,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-02-28T23:49:53.656413",
+    "icao24": "abd6ed",
+    "callsign": "GTI8702",
+    "latitude": 25.7745,
+    "longitude": -80.5909,
+    "altitude_m": 1303.02,
+    "altitude_ft": 4275,
+    "velocity_ms": 121.59,
+    "heading": 86.85,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
