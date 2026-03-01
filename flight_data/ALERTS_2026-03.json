@@ -117,5 +117,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-01T19:29:01.634178",
+    "icao24": "a67399",
+    "callsign": "SCX6054",
+    "latitude": 25.9227,
+    "longitude": -80.674,
+    "altitude_m": 449.58,
+    "altitude_ft": 1475,
+    "velocity_ms": 121.06,
+    "heading": 96.1,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
