@@ -1121,5 +1121,99 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-02T16:04:11.945499",
+    "icao24": "a798c6",
+    "callsign": "EJA589",
+    "latitude": 25.8981,
+    "longitude": -80.9964,
+    "altitude_m": 3352.8,
+    "altitude_ft": 11000,
+    "velocity_ms": 157.75,
+    "heading": 114.06,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-02T16:04:11.945537",
+    "icao24": "aaebe2",
+    "callsign": "N80213",
+    "latitude": 25.881,
+    "longitude": -80.6028,
+    "altitude_m": 121.92,
+    "altitude_ft": 400,
+    "velocity_ms": 34.23,
+    "heading": 47.44,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-02T16:04:11.945549",
+    "icao24": "a5cfa5",
+    "callsign": "UAL1358",
+    "latitude": 25.8722,
+    "longitude": -80.828,
+    "altitude_m": 2476.5,
+    "altitude_ft": 8125,
+    "velocity_ms": 151.76,
+    "heading": 89.81,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-02T16:04:11.945559",
+    "icao24": "ad3fcf",
+    "callsign": "N953AC",
+    "latitude": 25.7815,
+    "longitude": -80.6916,
+    "altitude_m": 251.46,
+    "altitude_ft": 825,
+    "velocity_ms": 46.69,
+    "heading": 288.63,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-02T16:04:11.945567",
+    "icao24": "a6ce10",
+    "callsign": "N5379Q",
+    "latitude": 25.9196,
+    "longitude": -80.6973,
+    "altitude_m": 792.48,
+    "altitude_ft": 2600,
+    "velocity_ms": 41.78,
+    "heading": 322,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-02T16:04:11.945575",
+    "icao24": "c05067",
+    "callsign": "ACA972",
+    "latitude": 25.8578,
+    "longitude": -80.757,
+    "altitude_m": 11582.4,
+    "altitude_ft": 38000,
+    "velocity_ms": 226.91,
+    "heading": 186.77,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
