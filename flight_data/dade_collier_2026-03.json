@@ -1042,5 +1042,20 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-02T11:55:16.934925",
+    "icao24": "4bb1a5",
+    "callsign": "THY4JD",
+    "latitude": 25.8651,
+    "longitude": -80.6086,
+    "altitude_m": 853.44,
+    "altitude_ft": 2800,
+    "velocity_ms": 120.96,
+    "heading": 268.05,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
