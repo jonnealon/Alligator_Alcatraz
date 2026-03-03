@@ -1964,5 +1964,99 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-03T15:27:16.724699",
+    "icao24": "a1be90",
+    "callsign": "N211PT",
+    "latitude": 25.7727,
+    "longitude": -80.6705,
+    "altitude_m": 121.92,
+    "altitude_ft": 400,
+    "velocity_ms": 50.66,
+    "heading": 279.94,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-03T15:27:16.724743",
+    "icao24": "ac0c67",
+    "callsign": "N8758P",
+    "latitude": 25.9278,
+    "longitude": -80.775,
+    "altitude_m": 2804.16,
+    "altitude_ft": 9200,
+    "velocity_ms": 81.8,
+    "heading": 180.72,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-03T15:27:16.724758",
+    "icao24": "a33e85",
+    "callsign": "AAL764",
+    "latitude": 25.9157,
+    "longitude": -80.9935,
+    "altitude_m": 3360.42,
+    "altitude_ft": 11025,
+    "velocity_ms": 147.57,
+    "heading": 94.4,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-03T15:27:16.724769",
+    "icao24": "a01fe5",
+    "callsign": "N107ND",
+    "latitude": 25.9048,
+    "longitude": -80.5952,
+    "altitude_m": 518.16,
+    "altitude_ft": 1700,
+    "velocity_ms": 64,
+    "heading": 265.39,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-03T15:27:16.724779",
+    "icao24": "a0d4db",
+    "callsign": "N1526V",
+    "latitude": 25.7948,
+    "longitude": -80.6838,
+    "altitude_m": 121.92,
+    "altitude_ft": 400,
+    "velocity_ms": 37.44,
+    "heading": 77.3,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-03T15:27:16.724788",
+    "icao24": "ac6445",
+    "callsign": "AAL1347",
+    "latitude": 25.8669,
+    "longitude": -80.9163,
+    "altitude_m": 2682.24,
+    "altitude_ft": 8800,
+    "velocity_ms": 140.17,
+    "heading": 112.89,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
