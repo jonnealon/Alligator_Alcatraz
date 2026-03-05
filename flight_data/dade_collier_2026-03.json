@@ -3107,5 +3107,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-05T07:03:04.644096",
+    "icao24": "a18ce8",
+    "callsign": "CSB7511",
+    "latitude": 25.8991,
+    "longitude": -80.8935,
+    "altitude_m": 2522.22,
+    "altitude_ft": 8275,
+    "velocity_ms": 134.73,
+    "heading": 107.33,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
