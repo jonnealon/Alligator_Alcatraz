@@ -797,5 +797,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-06T21:36:33.667946",
+    "icao24": "0c204e",
+    "callsign": "PANAMA1",
+    "latitude": 25.9211,
+    "longitude": -80.6491,
+    "altitude_m": 480.06,
+    "altitude_ft": 1575,
+    "velocity_ms": 85.69,
+    "heading": 111.48,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
