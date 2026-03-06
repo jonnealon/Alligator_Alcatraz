@@ -763,5 +763,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-06T16:02:42.913584",
+    "icao24": "ae07df",
+    "callsign": "TEDDY33",
+    "latitude": 25.9033,
+    "longitude": -80.7366,
+    "altitude_m": 1706.88,
+    "altitude_ft": 5600,
+    "velocity_ms": 108.2,
+    "heading": 195.16,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "MILITARY"
+    ],
+    "is_alert": true
   }
 ]
