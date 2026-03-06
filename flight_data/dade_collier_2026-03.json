@@ -4052,5 +4052,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-06T19:11:10.581725",
+    "icao24": "a22f22",
+    "callsign": "N24RE",
+    "latitude": 25.8752,
+    "longitude": -80.7459,
+    "altitude_m": 525.78,
+    "altitude_ft": 1725,
+    "velocity_ms": 58.53,
+    "heading": 349.88,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
