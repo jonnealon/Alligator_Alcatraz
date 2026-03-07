@@ -882,5 +882,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-07T07:50:16.559105",
+    "icao24": "c038ca",
+    "callsign": "ACA92",
+    "latitude": 25.9409,
+    "longitude": -80.952,
+    "altitude_m": 11033.76,
+    "altitude_ft": 36200,
+    "velocity_ms": 259.01,
+    "heading": 182.5,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
