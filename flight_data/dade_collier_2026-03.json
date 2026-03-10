@@ -6412,5 +6412,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-10T08:01:32.176339",
+    "icao24": "a33283",
+    "callsign": "N305GH",
+    "latitude": 25.8986,
+    "longitude": -81.0112,
+    "altitude_m": 3383.28,
+    "altitude_ft": 11100,
+    "velocity_ms": 168.12,
+    "heading": 102.55,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
