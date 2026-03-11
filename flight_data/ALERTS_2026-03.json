@@ -1378,5 +1378,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-11T19:59:12.624020",
+    "icao24": "ac83b4",
+    "callsign": "N905WA",
+    "latitude": 25.9261,
+    "longitude": -80.6132,
+    "altitude_m": 457.2,
+    "altitude_ft": 1500,
+    "velocity_ms": 35.83,
+    "heading": 111.04,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
