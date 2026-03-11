@@ -7416,5 +7416,20 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-11T10:08:44.118263",
+    "icao24": "a3ee0b",
+    "callsign": "UPS1332",
+    "latitude": 25.8281,
+    "longitude": -80.6664,
+    "altitude_m": 1508.76,
+    "altitude_ft": 4950,
+    "velocity_ms": 111.49,
+    "heading": 101.98,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
