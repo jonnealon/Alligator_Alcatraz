@@ -8295,5 +8295,20 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-12T11:51:38.386652",
+    "icao24": "ac972c",
+    "callsign": "FDX114",
+    "latitude": 25.884,
+    "longitude": -80.9608,
+    "altitude_m": 3086.1,
+    "altitude_ft": 10125,
+    "velocity_ms": 158.77,
+    "heading": 112.08,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
