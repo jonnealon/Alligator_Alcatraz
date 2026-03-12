@@ -8212,5 +8212,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-12T04:53:31.746438",
+    "icao24": "a44aa2",
+    "callsign": "FFT3442",
+    "latitude": 25.8528,
+    "longitude": -80.7303,
+    "altitude_m": 1554.48,
+    "altitude_ft": 5100,
+    "velocity_ms": 141.97,
+    "heading": 85.22,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
