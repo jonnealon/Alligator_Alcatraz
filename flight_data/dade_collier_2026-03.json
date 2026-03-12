@@ -8278,5 +8278,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-12T11:07:40.455157",
+    "icao24": "a804e2",
+    "callsign": "N61588",
+    "latitude": 25.8066,
+    "longitude": -80.6806,
+    "altitude_m": 487.68,
+    "altitude_ft": 1600,
+    "velocity_ms": 53.88,
+    "heading": 312.68,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
