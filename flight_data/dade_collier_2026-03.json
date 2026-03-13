@@ -8976,5 +8976,23 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-13T02:42:55.118344",
+    "icao24": "ad5c46",
+    "callsign": "Unknown",
+    "latitude": 25.7877,
+    "longitude": -80.7258,
+    "altitude_m": 1203.96,
+    "altitude_ft": 3950,
+    "velocity_ms": 89.27,
+    "heading": 25.97,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "NO_CALLSIGN",
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
