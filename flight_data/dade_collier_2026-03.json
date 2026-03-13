@@ -9011,5 +9011,20 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-13T10:04:34.362517",
+    "icao24": "ad6fef",
+    "callsign": "NKS978",
+    "latitude": 25.7967,
+    "longitude": -80.8986,
+    "altitude_m": 2293.62,
+    "altitude_ft": 7525,
+    "velocity_ms": 150.18,
+    "heading": 50.42,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
