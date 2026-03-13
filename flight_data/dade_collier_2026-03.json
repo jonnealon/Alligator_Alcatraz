@@ -8994,5 +8994,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-13T04:50:52.933247",
+    "icao24": "71c252",
+    "callsign": "KAL251",
+    "latitude": 25.8505,
+    "longitude": -80.7975,
+    "altitude_m": 4130.04,
+    "altitude_ft": 13550,
+    "velocity_ms": 188.25,
+    "heading": 85.93,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
