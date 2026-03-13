@@ -9026,5 +9026,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-13T11:05:59.157384",
+    "icao24": "e0f4d0",
+    "callsign": "LVOSP",
+    "latitude": 25.8707,
+    "longitude": -80.9342,
+    "altitude_m": 3185.16,
+    "altitude_ft": 10450,
+    "velocity_ms": 165.59,
+    "heading": 14.94,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
