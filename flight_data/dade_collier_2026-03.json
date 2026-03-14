@@ -9812,5 +9812,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-14T14:00:53.357814",
+    "icao24": "abd69d",
+    "callsign": "DAL1468",
+    "latitude": 25.7733,
+    "longitude": -80.6127,
+    "altitude_m": 1264.92,
+    "altitude_ft": 4150,
+    "velocity_ms": 119.49,
+    "heading": 87.29,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
