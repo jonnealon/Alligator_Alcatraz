@@ -1771,5 +1771,22 @@
       "WATCH_CALLSIGN:GXA"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-15T16:41:22.627712",
+    "icao24": "a70355",
+    "callsign": "Unknown",
+    "latitude": 25.8643,
+    "longitude": -81.0785,
+    "altitude_m": 876.3,
+    "altitude_ft": 2875,
+    "velocity_ms": 117.14,
+    "heading": 70.77,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "NO_CALLSIGN"
+    ],
+    "is_alert": true
   }
 ]
