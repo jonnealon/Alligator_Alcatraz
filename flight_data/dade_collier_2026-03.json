@@ -10773,5 +10773,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-15T17:35:32.011588",
+    "icao24": "a009da",
+    "callsign": "EJA101",
+    "latitude": 25.9108,
+    "longitude": -80.8193,
+    "altitude_m": 2103.12,
+    "altitude_ft": 6900,
+    "velocity_ms": 155.17,
+    "heading": 22.82,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
