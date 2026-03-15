@@ -10848,5 +10848,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-15T19:34:51.674993",
+    "icao24": "407e21",
+    "callsign": "VIR5C",
+    "latitude": 25.8021,
+    "longitude": -80.6019,
+    "altitude_m": 1196.34,
+    "altitude_ft": 3925,
+    "velocity_ms": 99.71,
+    "heading": 114.05,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
