@@ -10923,5 +10923,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-15T22:35:46.149088",
+    "icao24": "abac1e",
+    "callsign": "N851LW",
+    "latitude": 25.8679,
+    "longitude": -80.9039,
+    "altitude_m": 739.14,
+    "altitude_ft": 2425,
+    "velocity_ms": 60.1,
+    "heading": 38.05,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
