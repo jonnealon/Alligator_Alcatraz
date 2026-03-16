@@ -11181,5 +11181,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-16T15:14:53.240787",
+    "icao24": "a95cd5",
+    "callsign": "JRE702",
+    "latitude": 25.849,
+    "longitude": -80.907,
+    "altitude_m": 2720.34,
+    "altitude_ft": 8925,
+    "velocity_ms": 149.37,
+    "heading": 118.15,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
