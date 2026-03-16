@@ -11436,5 +11436,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-16T23:37:45.641894",
+    "icao24": "a1b2a8",
+    "callsign": "JBU1532",
+    "latitude": 25.9106,
+    "longitude": -81.0077,
+    "altitude_m": 10660.38,
+    "altitude_ft": 34975,
+    "velocity_ms": 242.94,
+    "heading": 5.59,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
