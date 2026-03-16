@@ -11070,5 +11070,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T06:55:10.205150",
+    "icao24": "a7f762",
+    "callsign": "NKS1759",
+    "latitude": 25.7734,
+    "longitude": -80.6161,
+    "altitude_m": 1211.58,
+    "altitude_ft": 3975,
+    "velocity_ms": 135.42,
+    "heading": 87.6,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
