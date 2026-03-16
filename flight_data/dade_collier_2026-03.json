@@ -11053,5 +11053,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-16T05:29:13.822474",
+    "icao24": "a252a7",
+    "callsign": "ENY3748",
+    "latitude": 25.7714,
+    "longitude": -80.5971,
+    "altitude_m": 899.16,
+    "altitude_ft": 2950,
+    "velocity_ms": 97.59,
+    "heading": 77.21,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
