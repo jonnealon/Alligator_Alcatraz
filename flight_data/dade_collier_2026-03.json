@@ -11545,5 +11545,35 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-17T15:10:49.492714",
+    "icao24": "abe124",
+    "callsign": "SWA1277",
+    "latitude": 25.8423,
+    "longitude": -80.7494,
+    "altitude_m": 4511.04,
+    "altitude_ft": 14800,
+    "velocity_ms": 196.1,
+    "heading": 105.68,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-17T15:10:49.492750",
+    "icao24": "a4c811",
+    "callsign": "EJA407",
+    "latitude": 25.9283,
+    "longitude": -81.0714,
+    "altitude_m": 3695.7,
+    "altitude_ft": 12125,
+    "velocity_ms": 185.22,
+    "heading": 115.85,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
