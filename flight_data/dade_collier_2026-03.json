@@ -11943,5 +11943,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-18T15:48:39.198379",
+    "icao24": "ab1288",
+    "callsign": "N812TW",
+    "latitude": 25.9446,
+    "longitude": -80.7222,
+    "altitude_m": 1478.28,
+    "altitude_ft": 4850,
+    "velocity_ms": 79.25,
+    "heading": 170.66,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
