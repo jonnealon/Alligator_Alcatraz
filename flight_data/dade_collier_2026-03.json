@@ -13681,5 +13681,100 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-20T20:46:17.381431",
+    "icao24": "aa1b0a",
+    "callsign": "N750LG",
+    "latitude": 25.9064,
+    "longitude": -80.6003,
+    "altitude_m": 586.74,
+    "altitude_ft": 1925,
+    "velocity_ms": 104.51,
+    "heading": 92.26,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-20T20:46:17.381467",
+    "icao24": "a0e4b0",
+    "callsign": "FFS57",
+    "latitude": 25.9117,
+    "longitude": -80.9881,
+    "altitude_m": 1341.12,
+    "altitude_ft": 4400,
+    "velocity_ms": 63.39,
+    "heading": 324.25,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-20T20:46:17.381480",
+    "icao24": "ae26a5",
+    "callsign": "C6579",
+    "latitude": 25.831,
+    "longitude": -80.6324,
+    "altitude_m": 129.54,
+    "altitude_ft": 425,
+    "velocity_ms": 75.53,
+    "heading": 245.88,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "MILITARY",
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-20T20:46:17.381490",
+    "icao24": "a2d939",
+    "callsign": "JRE283",
+    "latitude": 25.9372,
+    "longitude": -80.7203,
+    "altitude_m": 594.36,
+    "altitude_ft": 1950,
+    "velocity_ms": 132.75,
+    "heading": 108.29,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-20T20:46:17.381499",
+    "icao24": "a37d8d",
+    "callsign": "DAL1386",
+    "latitude": 25.8086,
+    "longitude": -80.6549,
+    "altitude_m": 1409.7,
+    "altitude_ft": 4625,
+    "velocity_ms": 135.6,
+    "heading": 100.71,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-20T20:46:17.381508",
+    "icao24": "abf71f",
+    "callsign": "N870JA",
+    "latitude": 25.8796,
+    "longitude": -80.6172,
+    "altitude_m": 213.36,
+    "altitude_ft": 700,
+    "velocity_ms": 37.1,
+    "heading": 109.44,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
