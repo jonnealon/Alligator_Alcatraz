@@ -2504,5 +2504,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-21T23:32:56.236498",
+    "icao24": "a2cf52",
+    "callsign": "N280PT",
+    "latitude": 25.8087,
+    "longitude": -80.7174,
+    "altitude_m": 274.32,
+    "altitude_ft": 900,
+    "velocity_ms": 57.26,
+    "heading": 301.41,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
