@@ -13926,5 +13926,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-21T04:43:13.458216",
+    "icao24": "a850dc",
+    "callsign": "FFT3442",
+    "latitude": 25.8282,
+    "longitude": -80.722,
+    "altitude_m": 1752.6,
+    "altitude_ft": 5750,
+    "velocity_ms": 144.45,
+    "heading": 111.08,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
