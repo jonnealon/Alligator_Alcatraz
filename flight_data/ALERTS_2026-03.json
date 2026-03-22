@@ -2572,5 +2572,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-22T14:54:55.670696",
+    "icao24": "add2c4",
+    "callsign": "Unknown",
+    "latitude": 25.8863,
+    "longitude": -81.065,
+    "altitude_m": 792.48,
+    "altitude_ft": 2600,
+    "velocity_ms": 111.81,
+    "heading": 116.8,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "NO_CALLSIGN"
+    ],
+    "is_alert": true
   }
 ]
