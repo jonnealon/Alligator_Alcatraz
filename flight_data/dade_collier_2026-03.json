@@ -16946,5 +16946,20 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-24T20:03:33.858830",
+    "icao24": "ab7647",
+    "callsign": "TMP3133",
+    "latitude": 25.839,
+    "longitude": -80.6709,
+    "altitude_m": 1379.22,
+    "altitude_ft": 4525,
+    "velocity_ms": 136.54,
+    "heading": 114.25,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
