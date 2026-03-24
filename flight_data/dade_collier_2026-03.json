@@ -17113,5 +17113,20 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-24T23:56:48.517824",
+    "icao24": "0c4392",
+    "callsign": "CEY650",
+    "latitude": 25.7725,
+    "longitude": -80.9444,
+    "altitude_m": 1485.9,
+    "altitude_ft": 4875,
+    "velocity_ms": 133.12,
+    "heading": 4.43,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
