@@ -2915,5 +2915,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-25T22:03:44.838825",
+    "icao24": "a709ae",
+    "callsign": "BPX251",
+    "latitude": 25.9095,
+    "longitude": -80.5848,
+    "altitude_m": 472.44,
+    "altitude_ft": 1550,
+    "velocity_ms": 45.56,
+    "heading": 115.41,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
