@@ -17128,5 +17128,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-25T02:55:53.940031",
+    "icao24": "a5c1a8",
+    "callsign": "N470FS",
+    "latitude": 25.8168,
+    "longitude": -81.0115,
+    "altitude_m": 868.68,
+    "altitude_ft": 2850,
+    "velocity_ms": 47.1,
+    "heading": 201.8,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
