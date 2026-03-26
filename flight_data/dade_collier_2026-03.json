@@ -18305,5 +18305,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-26T21:38:28.043221",
+    "icao24": "a32844",
+    "callsign": "ENY4066",
+    "latitude": 25.8461,
+    "longitude": -80.8099,
+    "altitude_m": 2476.5,
+    "altitude_ft": 8125,
+    "velocity_ms": 147.23,
+    "heading": 84.79,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
