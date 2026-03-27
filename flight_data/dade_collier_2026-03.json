@@ -18571,5 +18571,39 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-27T13:51:28.434664",
+    "icao24": "a0f9b2",
+    "callsign": "TROY308",
+    "latitude": 25.8886,
+    "longitude": -80.9434,
+    "altitude_m": 259.08,
+    "altitude_ft": 850,
+    "velocity_ms": 88.61,
+    "heading": 229,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-27T13:51:28.434702",
+    "icao24": "a01fe5",
+    "callsign": "N107ND",
+    "latitude": 25.8736,
+    "longitude": -80.6184,
+    "altitude_m": 426.72,
+    "altitude_ft": 1400,
+    "velocity_ms": 35.72,
+    "heading": 221.5,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
