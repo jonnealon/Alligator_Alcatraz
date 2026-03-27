@@ -18442,5 +18442,40 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-27T09:29:06.815755",
+    "icao24": "ababaf",
+    "callsign": "TWY851",
+    "latitude": 25.8403,
+    "longitude": -80.9238,
+    "altitude_m": 2758.44,
+    "altitude_ft": 9050,
+    "velocity_ms": 147.18,
+    "heading": 125.47,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-27T09:29:06.815793",
+    "icao24": "adccd1",
+    "callsign": "GXA599",
+    "latitude": 25.7729,
+    "longitude": -80.6299,
+    "altitude_m": 1531.62,
+    "altitude_ft": 5025,
+    "velocity_ms": 113.27,
+    "heading": 87.66,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "WATCH_CALLSIGN:GXA",
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
