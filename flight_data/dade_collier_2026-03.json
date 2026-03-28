@@ -19247,5 +19247,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-28T07:29:18.851475",
+    "icao24": "a8345f",
+    "callsign": "N628EF",
+    "latitude": 25.785,
+    "longitude": -80.9398,
+    "altitude_m": 2179.32,
+    "altitude_ft": 7150,
+    "velocity_ms": 132.1,
+    "heading": 18.86,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
