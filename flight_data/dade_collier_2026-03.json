@@ -20184,5 +20184,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-29T11:36:22.254093",
+    "icao24": "aaa90c",
+    "callsign": "RPA3538",
+    "latitude": 25.8022,
+    "longitude": -80.9797,
+    "altitude_m": 9060.18,
+    "altitude_ft": 29725,
+    "velocity_ms": 208,
+    "heading": 2.27,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
