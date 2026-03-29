@@ -20086,5 +20086,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-29T03:23:08.251430",
+    "icao24": "a7fb19",
+    "callsign": "NKS1273",
+    "latitude": 25.9113,
+    "longitude": -81.0323,
+    "altitude_m": 3421.38,
+    "altitude_ft": 11225,
+    "velocity_ms": 170.95,
+    "heading": 115.87,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
