@@ -3512,5 +3512,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-30T16:34:06.529457",
+    "icao24": "a4cb68",
+    "callsign": "PFA327",
+    "latitude": 25.831,
+    "longitude": -80.6297,
+    "altitude_m": 495.3,
+    "altitude_ft": 1625,
+    "velocity_ms": 52.93,
+    "heading": 195.79,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
