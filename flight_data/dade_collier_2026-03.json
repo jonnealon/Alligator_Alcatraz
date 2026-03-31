@@ -22211,5 +22211,35 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-31T23:01:37.549392",
+    "icao24": "a91ab7",
+    "callsign": "NKS1032",
+    "latitude": 25.9447,
+    "longitude": -80.8935,
+    "altitude_m": 2065.02,
+    "altitude_ft": 6775,
+    "velocity_ms": 135.16,
+    "heading": 28.91,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-03-31T23:01:37.549429",
+    "icao24": "0d0e5e",
+    "callsign": "VIV755",
+    "latitude": 25.7888,
+    "longitude": -80.7093,
+    "altitude_m": 4953,
+    "altitude_ft": 16250,
+    "velocity_ms": 190.61,
+    "heading": 257.69,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
