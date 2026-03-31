@@ -3580,5 +3580,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-03-31T15:10:48.520213",
+    "icao24": "ad929d",
+    "callsign": "N974BC",
+    "latitude": 25.8116,
+    "longitude": -80.7161,
+    "altitude_m": 472.44,
+    "altitude_ft": 1550,
+    "velocity_ms": 47.38,
+    "heading": 48.52,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
