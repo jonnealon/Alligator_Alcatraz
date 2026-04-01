@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "2026-04-01T09:17:00.803393",
+    "icao24": "a7a532",
+    "callsign": "DAL2040",
+    "latitude": 25.8761,
+    "longitude": -80.9399,
+    "altitude_m": 2712.72,
+    "altitude_ft": 8900,
+    "velocity_ms": 151.11,
+    "heading": 113.69,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
+  }
+]
