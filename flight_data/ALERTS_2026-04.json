@@ -100,5 +100,22 @@
       "MILITARY"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-01T22:05:32.061501",
+    "icao24": "ae58ea",
+    "callsign": "SH245",
+    "latitude": 25.9125,
+    "longitude": -81.0038,
+    "altitude_m": 1478.28,
+    "altitude_ft": 4850,
+    "velocity_ms": 100.61,
+    "heading": 147.53,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "MILITARY"
+    ],
+    "is_alert": true
   }
 ]
