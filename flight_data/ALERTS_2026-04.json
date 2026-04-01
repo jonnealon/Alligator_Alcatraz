@@ -49,5 +49,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-01T20:08:39.368793",
+    "icao24": "ae4a0a",
+    "callsign": "SH129",
+    "latitude": 25.8736,
+    "longitude": -81.1557,
+    "altitude_m": 1043.94,
+    "altitude_ft": 3425,
+    "velocity_ms": 117.24,
+    "heading": 320.16,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "MILITARY"
+    ],
+    "is_alert": true
   }
 ]
