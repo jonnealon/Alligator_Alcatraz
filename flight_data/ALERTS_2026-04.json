@@ -32,5 +32,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-01T19:14:10.991437",
+    "icao24": "a35a31",
+    "callsign": "VJA315",
+    "latitude": 25.9153,
+    "longitude": -80.607,
+    "altitude_m": 411.48,
+    "altitude_ft": 1350,
+    "velocity_ms": 88.58,
+    "heading": 115.82,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
