@@ -117,5 +117,22 @@
       "MILITARY"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-02T03:21:43.106816",
+    "icao24": "acfd2c",
+    "callsign": "AAL1663",
+    "latitude": 25.9456,
+    "longitude": -81.111,
+    "altitude_m": 3451.86,
+    "altitude_ft": 11325,
+    "velocity_ms": 168.88,
+    "heading": 116.02,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
