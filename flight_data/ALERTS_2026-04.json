@@ -185,5 +185,39 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-02T13:44:18.908937",
+    "icao24": "a0f9b2",
+    "callsign": "TROY308",
+    "latitude": 25.8863,
+    "longitude": -80.941,
+    "altitude_m": 289.56,
+    "altitude_ft": 950,
+    "velocity_ms": 76.45,
+    "heading": 241.02,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-02T13:44:18.908949",
+    "icao24": "a12260",
+    "callsign": "N172UC",
+    "latitude": 25.7881,
+    "longitude": -80.7524,
+    "altitude_m": 426.72,
+    "altitude_ft": 1400,
+    "velocity_ms": 45.27,
+    "heading": 180,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
