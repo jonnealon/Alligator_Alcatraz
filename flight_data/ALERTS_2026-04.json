@@ -253,5 +253,23 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-03T09:30:31.767124",
+    "icao24": "adccd1",
+    "callsign": "GXA599",
+    "latitude": 25.8162,
+    "longitude": -80.6403,
+    "altitude_m": 1036.32,
+    "altitude_ft": 3400,
+    "velocity_ms": 125.94,
+    "heading": 98.69,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "WATCH_CALLSIGN:GXA",
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
