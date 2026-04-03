@@ -1636,5 +1636,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-03T13:20:05.489817",
+    "icao24": "ac5093",
+    "callsign": "N893BA",
+    "latitude": 25.8864,
+    "longitude": -80.7157,
+    "altitude_m": 3436.62,
+    "altitude_ft": 11275,
+    "velocity_ms": 40.85,
+    "heading": 143.71,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
