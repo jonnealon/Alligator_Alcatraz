@@ -322,5 +322,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-03T23:41:24.302091",
+    "icao24": "a0b6dc",
+    "callsign": "N145SJ",
+    "latitude": 25.796,
+    "longitude": -80.717,
+    "altitude_m": 274.32,
+    "altitude_ft": 900,
+    "velocity_ms": 71.2,
+    "heading": 303.8,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
