@@ -2244,5 +2244,23 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-04T02:48:06.955315",
+    "icao24": "a0b6dc",
+    "callsign": "N145SJ",
+    "latitude": 25.8004,
+    "longitude": -80.6004,
+    "altitude_m": 198.12,
+    "altitude_ft": 650,
+    "velocity_ms": 55.23,
+    "heading": 117.76,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "AFTER_HOURS",
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
