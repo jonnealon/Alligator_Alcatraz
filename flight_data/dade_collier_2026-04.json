@@ -2675,5 +2675,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-04T17:38:45.229428",
+    "icao24": "a6a1e9",
+    "callsign": "N5262U",
+    "latitude": 25.8281,
+    "longitude": -80.863,
+    "altitude_m": 472.44,
+    "altitude_ft": 1550,
+    "velocity_ms": 47.92,
+    "heading": 165.07,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
