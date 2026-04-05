@@ -647,5 +647,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-05T20:42:02.498077",
+    "icao24": "ade549",
+    "callsign": "N995AU",
+    "latitude": 25.9188,
+    "longitude": -80.5886,
+    "altitude_m": 457.2,
+    "altitude_ft": 1500,
+    "velocity_ms": 94.86,
+    "heading": 111.97,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
