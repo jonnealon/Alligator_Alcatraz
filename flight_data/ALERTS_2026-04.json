@@ -545,5 +545,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-05T09:49:53.860875",
+    "icao24": "a7b40e",
+    "callsign": "DAL2040",
+    "latitude": 25.915,
+    "longitude": -81.0413,
+    "altitude_m": 3162.3,
+    "altitude_ft": 10375,
+    "velocity_ms": 147.26,
+    "heading": 115.67,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
