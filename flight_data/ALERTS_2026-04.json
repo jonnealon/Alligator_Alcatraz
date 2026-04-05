@@ -528,5 +528,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-05T08:56:06.027860",
+    "icao24": "addefe",
+    "callsign": "NKS1140",
+    "latitude": 25.8301,
+    "longitude": -80.7027,
+    "altitude_m": 2019.3,
+    "altitude_ft": 6625,
+    "velocity_ms": 142.48,
+    "heading": 48.37,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
