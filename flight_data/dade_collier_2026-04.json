@@ -3150,5 +3150,23 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-05T06:44:44.737849",
+    "icao24": "a5bb62",
+    "callsign": "N469DN",
+    "latitude": 25.7861,
+    "longitude": -80.675,
+    "altitude_m": 403.86,
+    "altitude_ft": 1325,
+    "velocity_ms": 97.76,
+    "heading": 180.9,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "AFTER_HOURS",
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
