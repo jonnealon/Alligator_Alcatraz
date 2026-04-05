@@ -3369,5 +3369,20 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-05T15:03:25.357626",
+    "icao24": "a8b981",
+    "callsign": "N661SA",
+    "latitude": 25.9437,
+    "longitude": -80.8193,
+    "altitude_m": 6408.42,
+    "altitude_ft": 21025,
+    "velocity_ms": 141.33,
+    "heading": 106.06,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
