@@ -3799,5 +3799,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-06T03:28:27.062401",
+    "icao24": "e80241",
+    "callsign": "LTG8516",
+    "latitude": 25.7682,
+    "longitude": -80.6921,
+    "altitude_m": 1356.36,
+    "altitude_ft": 4450,
+    "velocity_ms": 96.41,
+    "heading": 53.68,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
