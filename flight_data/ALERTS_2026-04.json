@@ -834,5 +834,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-08T23:09:27.892157",
+    "icao24": "a1f025",
+    "callsign": "JTL224",
+    "latitude": 25.9033,
+    "longitude": -80.6161,
+    "altitude_m": 480.06,
+    "altitude_ft": 1575,
+    "velocity_ms": 115.02,
+    "heading": 101.61,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
