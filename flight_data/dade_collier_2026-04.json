@@ -5715,5 +5715,50 @@
       "WATCH_CALLSIGN:GXA"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-10T12:06:59.633357",
+    "icao24": "abbedb",
+    "callsign": "AAL1325",
+    "latitude": 25.8788,
+    "longitude": -80.947,
+    "altitude_m": 2750.82,
+    "altitude_ft": 9025,
+    "velocity_ms": 141.32,
+    "heading": 112.92,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-10T12:06:59.633408",
+    "icao24": "a70330",
+    "callsign": "N551AP",
+    "latitude": 25.8821,
+    "longitude": -80.8399,
+    "altitude_m": 1021.08,
+    "altitude_ft": 3350,
+    "velocity_ms": 49.52,
+    "heading": 317.53,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-10T12:06:59.633424",
+    "icao24": "a42026",
+    "callsign": "N365PB",
+    "latitude": 25.8644,
+    "longitude": -80.6987,
+    "altitude_m": 4366.26,
+    "altitude_ft": 14325,
+    "velocity_ms": 73.88,
+    "heading": 347.12,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
