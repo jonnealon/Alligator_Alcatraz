@@ -1022,5 +1022,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-10T16:02:33.231201",
+    "icao24": "e809a3",
+    "callsign": "CCAYT",
+    "latitude": 25.8901,
+    "longitude": -80.7446,
+    "altitude_m": 419.1,
+    "altitude_ft": 1375,
+    "velocity_ms": 101.35,
+    "heading": 89.42,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
