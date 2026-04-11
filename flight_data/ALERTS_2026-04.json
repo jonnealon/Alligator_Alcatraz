@@ -1175,5 +1175,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-11T22:40:18.812423",
+    "icao24": "a2f129",
+    "callsign": "YEL9",
+    "latitude": 25.919,
+    "longitude": -80.6381,
+    "altitude_m": 434.34,
+    "altitude_ft": 1425,
+    "velocity_ms": 101.41,
+    "heading": 96.12,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
