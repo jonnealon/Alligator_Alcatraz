@@ -1158,5 +1158,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-11T14:07:31.384304",
+    "icao24": "a326d8",
+    "callsign": "N302AZ",
+    "latitude": 25.9364,
+    "longitude": -80.7291,
+    "altitude_m": 403.86,
+    "altitude_ft": 1325,
+    "velocity_ms": 120.12,
+    "heading": 98.37,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
