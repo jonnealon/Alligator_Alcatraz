@@ -6220,5 +6220,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-11T00:01:16.226280",
+    "icao24": "a5dde7",
+    "callsign": "N4773L",
+    "latitude": 25.8861,
+    "longitude": -81.0789,
+    "altitude_m": 967.74,
+    "altitude_ft": 3175,
+    "velocity_ms": 51.67,
+    "heading": 144.73,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
