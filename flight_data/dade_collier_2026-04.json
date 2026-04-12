@@ -6971,5 +6971,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-12T13:17:06.814890",
+    "icao24": "aaf26b",
+    "callsign": "BBQ2201",
+    "latitude": 25.7745,
+    "longitude": -80.7707,
+    "altitude_m": 5486.4,
+    "altitude_ft": 18000,
+    "velocity_ms": 211,
+    "heading": 251.52,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
