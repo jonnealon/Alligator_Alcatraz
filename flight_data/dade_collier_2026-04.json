@@ -7731,5 +7731,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-14T19:26:23.124142",
+    "icao24": "ab5b8c",
+    "callsign": "SWA3107",
+    "latitude": 25.8569,
+    "longitude": -80.68,
+    "altitude_m": 1684.02,
+    "altitude_ft": 5525,
+    "velocity_ms": 134.04,
+    "heading": 86.26,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
