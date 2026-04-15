@@ -1362,5 +1362,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-15T22:23:07.959987",
+    "icao24": "a2c110",
+    "callsign": "FXC44",
+    "latitude": 25.9372,
+    "longitude": -80.6623,
+    "altitude_m": 243.84,
+    "altitude_ft": 800,
+    "velocity_ms": 72.32,
+    "heading": 98.59,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
