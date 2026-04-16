@@ -1447,5 +1447,23 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-16T15:02:01.461163",
+    "icao24": "ae4bf1",
+    "callsign": "C2317",
+    "latitude": 25.8743,
+    "longitude": -80.6584,
+    "altitude_m": 403.86,
+    "altitude_ft": 1325,
+    "velocity_ms": 84.48,
+    "heading": 32.82,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "MILITARY",
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
