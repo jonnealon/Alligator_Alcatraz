@@ -1396,5 +1396,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-16T03:56:12.455298",
+    "icao24": "0d07f0",
+    "callsign": "AMX428",
+    "latitude": 25.7903,
+    "longitude": -80.7166,
+    "altitude_m": 1851.66,
+    "altitude_ft": 6075,
+    "velocity_ms": 110.92,
+    "heading": 111.21,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
