@@ -1584,5 +1584,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-17T22:51:39.921348",
+    "icao24": "a716cb",
+    "callsign": "FRLD70",
+    "latitude": 25.9245,
+    "longitude": -80.8839,
+    "altitude_m": 312.42,
+    "altitude_ft": 1025,
+    "velocity_ms": 79.76,
+    "heading": 30.2,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
