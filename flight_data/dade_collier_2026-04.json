@@ -8986,5 +8986,20 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-17T11:05:22.375503",
+    "icao24": "acc9d0",
+    "callsign": "FDX114",
+    "latitude": 25.881,
+    "longitude": -80.8981,
+    "altitude_m": 2849.88,
+    "altitude_ft": 9350,
+    "velocity_ms": 142.75,
+    "heading": 103.34,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
