@@ -8969,5 +8969,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-17T08:13:26.868166",
+    "icao24": "a63864",
+    "callsign": "N50JE",
+    "latitude": 25.8949,
+    "longitude": -80.5862,
+    "altitude_m": 13106.4,
+    "altitude_ft": 43000,
+    "velocity_ms": 221.23,
+    "heading": 293.29,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
