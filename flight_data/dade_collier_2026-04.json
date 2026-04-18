@@ -9842,5 +9842,99 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-18T19:24:55.306775",
+    "icao24": "acdb9a",
+    "callsign": "N92779",
+    "latitude": 25.8894,
+    "longitude": -81.1044,
+    "altitude_m": 2727.96,
+    "altitude_ft": 8950,
+    "velocity_ms": 79.75,
+    "heading": 1.11,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-18T19:24:55.306814",
+    "icao24": "a1100d",
+    "callsign": "JTL168",
+    "latitude": 25.9157,
+    "longitude": -80.6221,
+    "altitude_m": 464.82,
+    "altitude_ft": 1525,
+    "velocity_ms": 104.54,
+    "heading": 127.6,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-18T19:24:55.306829",
+    "icao24": "a70bd1",
+    "callsign": "DAL1323",
+    "latitude": 25.9022,
+    "longitude": -80.9113,
+    "altitude_m": 2697.48,
+    "altitude_ft": 8850,
+    "velocity_ms": 135.91,
+    "heading": 84.57,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-18T19:24:55.306841",
+    "icao24": "ae057b",
+    "callsign": "HEFTY22",
+    "latitude": 25.9276,
+    "longitude": -80.7575,
+    "altitude_m": 9448.8,
+    "altitude_ft": 31000,
+    "velocity_ms": 260.19,
+    "heading": 106.07,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "MILITARY"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-18T19:24:55.306852",
+    "icao24": "a5bb17",
+    "callsign": "AAL1824",
+    "latitude": 25.805,
+    "longitude": -80.6838,
+    "altitude_m": 1668.78,
+    "altitude_ft": 5475,
+    "velocity_ms": 116.39,
+    "heading": 106.43,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-18T19:24:55.306862",
+    "icao24": "abc2fa",
+    "callsign": "N857SS",
+    "latitude": 25.9334,
+    "longitude": -80.7729,
+    "altitude_m": 632.46,
+    "altitude_ft": 2075,
+    "velocity_ms": 132.88,
+    "heading": 103.66,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
