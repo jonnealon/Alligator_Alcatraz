@@ -1686,5 +1686,22 @@
       "MILITARY"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-18T23:04:40.672134",
+    "icao24": "a1f0f1",
+    "callsign": "N224MA",
+    "latitude": 25.7823,
+    "longitude": -80.6417,
+    "altitude_m": 457.2,
+    "altitude_ft": 1500,
+    "velocity_ms": 59.7,
+    "heading": 268.52,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
