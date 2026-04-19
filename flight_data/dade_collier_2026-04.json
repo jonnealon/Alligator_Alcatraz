@@ -10863,5 +10863,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-19T21:04:37.705223",
+    "icao24": "ad4389",
+    "callsign": "CNS1030",
+    "latitude": 25.8761,
+    "longitude": -81.1371,
+    "altitude_m": 6400.8,
+    "altitude_ft": 21000,
+    "velocity_ms": 139.24,
+    "heading": 6.36,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
