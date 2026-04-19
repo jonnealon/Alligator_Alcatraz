@@ -10292,5 +10292,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-19T11:59:47.593173",
+    "icao24": "ab1859",
+    "callsign": "N814BH",
+    "latitude": 25.8604,
+    "longitude": -81.099,
+    "altitude_m": 883.92,
+    "altitude_ft": 2900,
+    "velocity_ms": 68.73,
+    "heading": 300.6,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
