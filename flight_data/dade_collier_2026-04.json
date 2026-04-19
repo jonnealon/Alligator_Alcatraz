@@ -10247,5 +10247,20 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-19T10:08:52.112297",
+    "icao24": "a0c62d",
+    "callsign": "BBQ701",
+    "latitude": 25.8073,
+    "longitude": -80.6367,
+    "altitude_m": 3825.24,
+    "altitude_ft": 12550,
+    "velocity_ms": 181.07,
+    "heading": 255.02,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
