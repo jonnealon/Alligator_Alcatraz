@@ -11118,5 +11118,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-20T03:59:37.323902",
+    "icao24": "aa4ce9",
+    "callsign": "ABX583",
+    "latitude": 25.8822,
+    "longitude": -80.9487,
+    "altitude_m": 5120.64,
+    "altitude_ft": 16800,
+    "velocity_ms": 201.78,
+    "heading": 109.82,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
