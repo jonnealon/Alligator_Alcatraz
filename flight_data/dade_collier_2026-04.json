@@ -11859,5 +11859,35 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-21T23:08:50.635346",
+    "icao24": "0d0b04",
+    "callsign": "AMX421",
+    "latitude": 25.8172,
+    "longitude": -80.5936,
+    "altitude_m": 5212.08,
+    "altitude_ft": 17100,
+    "velocity_ms": 183.06,
+    "heading": 255.18,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-21T23:08:50.635380",
+    "icao24": "aa67b1",
+    "callsign": "N77LJ",
+    "latitude": 25.8648,
+    "longitude": -80.8594,
+    "altitude_m": 1661.16,
+    "altitude_ft": 5450,
+    "velocity_ms": 92.47,
+    "heading": 137.25,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
