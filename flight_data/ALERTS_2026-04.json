@@ -2012,5 +2012,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-22T21:28:04.445450",
+    "icao24": "a6c970",
+    "callsign": "N53622",
+    "latitude": 25.8692,
+    "longitude": -80.6366,
+    "altitude_m": 426.72,
+    "altitude_ft": 1400,
+    "velocity_ms": 38.58,
+    "heading": 36.87,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
