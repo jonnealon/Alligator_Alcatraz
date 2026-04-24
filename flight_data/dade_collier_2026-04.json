@@ -12852,5 +12852,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-24T13:55:44.696518",
+    "icao24": "a4da1c",
+    "callsign": "N411ZF",
+    "latitude": 25.8935,
+    "longitude": -80.715,
+    "altitude_m": 3276.6,
+    "altitude_ft": 10750,
+    "velocity_ms": 112.88,
+    "heading": 353.46,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
