@@ -13486,5 +13486,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-26T00:05:18.789859",
+    "icao24": "ac38c0",
+    "callsign": "N887KJ",
+    "latitude": 25.9474,
+    "longitude": -81.0014,
+    "altitude_m": 426.72,
+    "altitude_ft": 1400,
+    "velocity_ms": 58.37,
+    "heading": 55.05,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
