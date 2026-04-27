@@ -14233,5 +14233,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-04-27T19:42:44.979168",
+    "icao24": "a63687",
+    "callsign": "N5PD",
+    "latitude": 25.9223,
+    "longitude": -80.7608,
+    "altitude_m": 472.44,
+    "altitude_ft": 1550,
+    "velocity_ms": 120.48,
+    "heading": 110.76,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
