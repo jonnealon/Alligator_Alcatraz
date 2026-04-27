@@ -2216,5 +2216,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-27T16:09:17.171342",
+    "icao24": "a7f2da",
+    "callsign": "N611EA",
+    "latitude": 25.8337,
+    "longitude": -80.6403,
+    "altitude_m": 464.82,
+    "altitude_ft": 1525,
+    "velocity_ms": 45.39,
+    "heading": 54.69,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
