@@ -2301,5 +2301,22 @@
       "WATCH_CALLSIGN:GXA"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-04-29T19:48:46.651782",
+    "icao24": "aae132",
+    "callsign": "TWY1026",
+    "latitude": 25.9208,
+    "longitude": -80.6265,
+    "altitude_m": 472.44,
+    "altitude_ft": 1550,
+    "velocity_ms": 110.08,
+    "heading": 97.79,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
