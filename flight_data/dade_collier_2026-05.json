@@ -90,5 +90,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-05-01T18:40:36.035846",
+    "icao24": "0d08f4",
+    "callsign": "VOI790",
+    "latitude": 25.7904,
+    "longitude": -80.7172,
+    "altitude_m": 1805.94,
+    "altitude_ft": 5925,
+    "velocity_ms": 145.23,
+    "heading": 112.93,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
