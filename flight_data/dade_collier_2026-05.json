@@ -105,5 +105,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-05-01T20:08:37.052648",
+    "icao24": "ad99f2",
+    "callsign": "N976AC",
+    "latitude": 25.8282,
+    "longitude": -80.5911,
+    "altitude_m": 609.6,
+    "altitude_ft": 2000,
+    "velocity_ms": 45.48,
+    "heading": 316.37,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
