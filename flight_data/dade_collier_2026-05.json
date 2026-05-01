@@ -15,5 +15,20 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-01T10:53:11.986674",
+    "icao24": "a5aff2",
+    "callsign": "AAL2155",
+    "latitude": 25.8595,
+    "longitude": -80.6461,
+    "altitude_m": 3688.08,
+    "altitude_ft": 12100,
+    "velocity_ms": 146.98,
+    "heading": 85.99,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
