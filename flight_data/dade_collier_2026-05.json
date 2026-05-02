@@ -332,5 +332,20 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-02T17:56:58.920541",
+    "icao24": "aaae79",
+    "callsign": "ENY3582",
+    "latitude": 25.8165,
+    "longitude": -80.6492,
+    "altitude_m": 9380.22,
+    "altitude_ft": 30775,
+    "velocity_ms": 226.37,
+    "heading": 183.91,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
