@@ -255,5 +255,35 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-05-02T14:55:56.963987",
+    "icao24": "a12758",
+    "callsign": "UAL1080",
+    "latitude": 25.7986,
+    "longitude": -80.6109,
+    "altitude_m": 10972.8,
+    "altitude_ft": 36000,
+    "velocity_ms": 222.97,
+    "heading": 196.76,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-05-02T14:55:56.964068",
+    "icao24": "a2e935",
+    "callsign": "ENY3755",
+    "latitude": 25.8952,
+    "longitude": -80.9841,
+    "altitude_m": 5219.7,
+    "altitude_ft": 17125,
+    "velocity_ms": 197.79,
+    "heading": 110.56,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
