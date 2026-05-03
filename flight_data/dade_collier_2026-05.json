@@ -482,5 +482,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-05-03T00:09:27.727898",
+    "icao24": "0c2081",
+    "callsign": "CMP736",
+    "latitude": 25.8014,
+    "longitude": -81.0195,
+    "altitude_m": 10668,
+    "altitude_ft": 35000,
+    "velocity_ms": 233.12,
+    "heading": 5.57,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
