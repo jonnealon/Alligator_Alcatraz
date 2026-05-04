@@ -709,5 +709,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-04T09:27:30.663923",
+    "icao24": "a5b760",
+    "callsign": "AAL340",
+    "latitude": 25.8489,
+    "longitude": -80.8285,
+    "altitude_m": 4396.74,
+    "altitude_ft": 14425,
+    "velocity_ms": 196.01,
+    "heading": 89.55,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
