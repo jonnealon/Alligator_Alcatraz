@@ -32,5 +32,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-04T03:59:23.287843",
+    "icao24": "a897e5",
+    "callsign": "CNS211",
+    "latitude": 25.89,
+    "longitude": -81.1853,
+    "altitude_m": 2621.28,
+    "altitude_ft": 8600,
+    "velocity_ms": 136.3,
+    "heading": 96.94,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
