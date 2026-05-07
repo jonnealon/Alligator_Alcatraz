@@ -169,5 +169,22 @@
       "MILITARY"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-07T18:52:24.781103",
+    "icao24": "acf49d",
+    "callsign": "OZN934",
+    "latitude": 25.864,
+    "longitude": -80.6146,
+    "altitude_m": 198.12,
+    "altitude_ft": 650,
+    "velocity_ms": 46.81,
+    "heading": 180,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
