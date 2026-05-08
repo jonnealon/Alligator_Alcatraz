@@ -2061,5 +2061,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-05-08T08:25:09.231896",
+    "icao24": "a3c68c",
+    "callsign": "UPS304",
+    "latitude": 25.7997,
+    "longitude": -80.6059,
+    "altitude_m": 937.26,
+    "altitude_ft": 3075,
+    "velocity_ms": 107.34,
+    "heading": 105.57,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
