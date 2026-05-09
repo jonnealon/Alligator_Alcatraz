@@ -2581,5 +2581,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-05-09T18:32:14.334932",
+    "icao24": "a31ddd",
+    "callsign": "N30KC",
+    "latitude": 25.9217,
+    "longitude": -81.0804,
+    "altitude_m": 3352.8,
+    "altitude_ft": 11000,
+    "velocity_ms": 123.23,
+    "heading": 356.17,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
