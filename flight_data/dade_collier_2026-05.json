@@ -4330,5 +4330,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-05-15T16:20:10.647424",
+    "icao24": "a21c82",
+    "callsign": "N235QS",
+    "latitude": 25.8427,
+    "longitude": -80.5979,
+    "altitude_m": 7741.92,
+    "altitude_ft": 25400,
+    "velocity_ms": 244.26,
+    "heading": 101.05,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
