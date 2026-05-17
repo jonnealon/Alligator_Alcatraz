@@ -700,5 +700,22 @@
       "WATCH_CALLSIGN:GXA"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-17T15:03:43.010522",
+    "icao24": "a2ea55",
+    "callsign": "N2870A",
+    "latitude": 25.8735,
+    "longitude": -80.6745,
+    "altitude_m": 441.96,
+    "altitude_ft": 1450,
+    "velocity_ms": 64.26,
+    "heading": 150.77,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
