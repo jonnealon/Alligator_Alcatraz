@@ -717,5 +717,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-17T22:26:50.029400",
+    "icao24": "a70355",
+    "callsign": "N551CA",
+    "latitude": 25.8971,
+    "longitude": -80.6103,
+    "altitude_m": 441.96,
+    "altitude_ft": 1450,
+    "velocity_ms": 91.66,
+    "heading": 87.43,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
