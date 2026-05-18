@@ -5343,5 +5343,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-05-18T18:21:02.264400",
+    "icao24": "ad6472",
+    "callsign": "JSX510",
+    "latitude": 25.9142,
+    "longitude": -80.6828,
+    "altitude_m": 556.26,
+    "altitude_ft": 1825,
+    "velocity_ms": 101.21,
+    "heading": 107.15,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
