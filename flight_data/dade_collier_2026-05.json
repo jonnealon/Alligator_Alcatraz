@@ -5373,5 +5373,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-05-18T23:11:30.422822",
+    "icao24": "aa0d0d",
+    "callsign": "MTN7509",
+    "latitude": 25.9107,
+    "longitude": -80.7636,
+    "altitude_m": 868.68,
+    "altitude_ft": 2850,
+    "velocity_ms": 71.2,
+    "heading": 52.63,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
