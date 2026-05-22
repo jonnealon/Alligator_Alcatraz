@@ -873,5 +873,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-22T13:55:10.797880",
+    "icao24": "ab0dc2",
+    "callsign": "TROY309",
+    "latitude": 25.907,
+    "longitude": -80.8691,
+    "altitude_m": 426.72,
+    "altitude_ft": 1400,
+    "velocity_ms": 87.47,
+    "heading": 268.99,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
