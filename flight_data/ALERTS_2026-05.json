@@ -941,5 +941,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-23T18:34:44.587987",
+    "icao24": "acedf5",
+    "callsign": "JSX510",
+    "latitude": 25.8997,
+    "longitude": -80.5926,
+    "altitude_m": 441.96,
+    "altitude_ft": 1450,
+    "velocity_ms": 98.07,
+    "heading": 103.96,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
