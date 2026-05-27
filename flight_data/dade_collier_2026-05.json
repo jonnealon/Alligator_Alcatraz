@@ -7251,5 +7251,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-05-27T04:57:41.730882",
+    "icao24": "abc201",
+    "callsign": "GTI8236",
+    "latitude": 25.7878,
+    "longitude": -80.6162,
+    "altitude_m": 868.68,
+    "altitude_ft": 2850,
+    "velocity_ms": 88.04,
+    "heading": 80.92,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
