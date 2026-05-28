@@ -1077,5 +1077,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-05-28T22:01:04.738816",
+    "icao24": "adca9b",
+    "callsign": "KOW988",
+    "latitude": 25.8687,
+    "longitude": -80.8181,
+    "altitude_m": 480.06,
+    "altitude_ft": 1575,
+    "velocity_ms": 135.82,
+    "heading": 65.38,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
