@@ -7959,5 +7959,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-05-31T15:50:53.051302",
+    "icao24": "ae116f",
+    "callsign": "WING74",
+    "latitude": 25.814,
+    "longitude": -80.6603,
+    "altitude_m": 7856.22,
+    "altitude_ft": 25775,
+    "velocity_ms": 134.19,
+    "heading": 184.62,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "MILITARY"
+    ],
+    "is_alert": true
   }
 ]
