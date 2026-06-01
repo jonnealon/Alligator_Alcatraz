@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "timestamp": "2026-06-01T22:21:31.363744",
+    "icao24": "ad0284",
+    "callsign": "N93730",
+    "latitude": 25.8337,
+    "longitude": -80.6115,
+    "altitude_m": 670.56,
+    "altitude_ft": 2200,
+    "velocity_ms": 29.46,
+    "heading": 204.78,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  }
+]
