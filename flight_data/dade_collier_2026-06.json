@@ -13,5 +13,35 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-02T12:57:14.754289",
+    "icao24": "a8e247",
+    "callsign": "DAL2836",
+    "latitude": 25.8767,
+    "longitude": -80.9308,
+    "altitude_m": 4754.88,
+    "altitude_ft": 15600,
+    "velocity_ms": 196.83,
+    "heading": 110.66,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-02T12:57:14.754335",
+    "icao24": "a98f33",
+    "callsign": "MTN8512",
+    "latitude": 25.8076,
+    "longitude": -80.6622,
+    "altitude_m": 1158.24,
+    "altitude_ft": 3800,
+    "velocity_ms": 66.29,
+    "heading": 167.91,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
