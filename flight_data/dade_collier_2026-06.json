@@ -197,5 +197,35 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-04T20:12:50.554912",
+    "icao24": "adca9b",
+    "callsign": "KOW988",
+    "latitude": 25.9353,
+    "longitude": -80.7538,
+    "altitude_m": 609.6,
+    "altitude_ft": 2000,
+    "velocity_ms": 100.56,
+    "heading": 117.74,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-04T20:12:50.554960",
+    "icao24": "a88752",
+    "callsign": "GTI8622",
+    "latitude": 25.7742,
+    "longitude": -80.6054,
+    "altitude_m": 876.3,
+    "altitude_ft": 2875,
+    "velocity_ms": 102.62,
+    "heading": 27.46,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
