@@ -608,5 +608,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-06T21:38:06.478048",
+    "icao24": "a3cdc8",
+    "callsign": "N344SP",
+    "latitude": 25.9468,
+    "longitude": -80.6701,
+    "altitude_m": 548.64,
+    "altitude_ft": 1800,
+    "velocity_ms": 52.77,
+    "heading": 299.81,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
