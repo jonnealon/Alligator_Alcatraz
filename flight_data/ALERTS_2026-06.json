@@ -49,5 +49,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-06T04:08:10.702917",
+    "icao24": "a742c2",
+    "callsign": "AAL2690",
+    "latitude": 25.8696,
+    "longitude": -80.9222,
+    "altitude_m": 2567.94,
+    "altitude_ft": 8425,
+    "velocity_ms": 140.37,
+    "heading": 113.09,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
