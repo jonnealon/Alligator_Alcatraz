@@ -896,5 +896,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-07T20:18:45.033493",
+    "icao24": "ab761c",
+    "callsign": "ASA305",
+    "latitude": 25.8928,
+    "longitude": -80.9844,
+    "altitude_m": 2994.66,
+    "altitude_ft": 9825,
+    "velocity_ms": 149.15,
+    "heading": 112.94,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
