@@ -2443,5 +2443,35 @@
       "WATCH_CALLSIGN:GXA"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-19T19:04:41.600086",
+    "icao24": "0d0ba7",
+    "callsign": "XAMRA",
+    "latitude": 25.8694,
+    "longitude": -80.9197,
+    "altitude_m": 2026.92,
+    "altitude_ft": 6650,
+    "velocity_ms": 128.79,
+    "heading": 45.97,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-19T19:04:41.600126",
+    "icao24": "a00cf0",
+    "callsign": "N102JF",
+    "latitude": 25.8558,
+    "longitude": -80.8153,
+    "altitude_m": 746.76,
+    "altitude_ft": 2450,
+    "velocity_ms": 57.6,
+    "heading": 162.86,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
