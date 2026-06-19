@@ -2396,5 +2396,52 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-19T10:49:51.557759",
+    "icao24": "a101c3",
+    "callsign": "AAL3318",
+    "latitude": 25.8666,
+    "longitude": -80.9141,
+    "altitude_m": 2400.3,
+    "altitude_ft": 7875,
+    "velocity_ms": 146.86,
+    "heading": 112.88,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-19T10:49:51.557803",
+    "icao24": "a5cc37",
+    "callsign": "UAL2074",
+    "latitude": 25.8545,
+    "longitude": -81.099,
+    "altitude_m": 8237.22,
+    "altitude_ft": 27025,
+    "velocity_ms": 223.03,
+    "heading": 282.66,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-19T10:49:51.557816",
+    "icao24": "a5365d",
+    "callsign": "GXA2964",
+    "latitude": 25.7852,
+    "longitude": -80.6032,
+    "altitude_m": 876.3,
+    "altitude_ft": 2875,
+    "velocity_ms": 115.35,
+    "heading": 71,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "WATCH_CALLSIGN:GXA"
+    ],
+    "is_alert": true
   }
 ]
