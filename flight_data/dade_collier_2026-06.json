@@ -2927,5 +2927,35 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-21T19:03:22.285753",
+    "icao24": "aaf665",
+    "callsign": "WAL261",
+    "latitude": 25.7737,
+    "longitude": -80.6042,
+    "altitude_m": 1493.52,
+    "altitude_ft": 4900,
+    "velocity_ms": 96.85,
+    "heading": 86.96,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-21T19:03:22.285792",
+    "icao24": "0d0947",
+    "callsign": "VIV730",
+    "latitude": 25.9119,
+    "longitude": -81.1123,
+    "altitude_m": 3177.54,
+    "altitude_ft": 10425,
+    "velocity_ms": 155.92,
+    "heading": 88.68,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
