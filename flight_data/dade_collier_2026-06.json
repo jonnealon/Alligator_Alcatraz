@@ -3308,5 +3308,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-24T23:13:07.023770",
+    "icao24": "a091fd",
+    "callsign": "FDX331",
+    "latitude": 25.7742,
+    "longitude": -80.8449,
+    "altitude_m": 1996.44,
+    "altitude_ft": 6550,
+    "velocity_ms": 134.96,
+    "heading": 45.46,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
