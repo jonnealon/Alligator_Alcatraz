@@ -3154,5 +3154,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-24T00:03:51.057415",
+    "icao24": "a2ea55",
+    "callsign": "N2870A",
+    "latitude": 25.8954,
+    "longitude": -80.6304,
+    "altitude_m": 579.12,
+    "altitude_ft": 1900,
+    "velocity_ms": 66.22,
+    "heading": 350.61,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
