@@ -3276,5 +3276,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-24T18:19:16.157967",
+    "icao24": "ab0471",
+    "callsign": "N809MT",
+    "latitude": 25.8587,
+    "longitude": -80.7968,
+    "altitude_m": 419.1,
+    "altitude_ft": 1375,
+    "velocity_ms": 81.8,
+    "heading": 299.79,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
