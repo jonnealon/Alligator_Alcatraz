@@ -425,5 +425,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-25T23:53:55.088678",
+    "icao24": "a6b359",
+    "callsign": "N5304H",
+    "latitude": 25.8027,
+    "longitude": -80.6092,
+    "altitude_m": 487.68,
+    "altitude_ft": 1600,
+    "velocity_ms": 50.22,
+    "heading": 322.07,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
