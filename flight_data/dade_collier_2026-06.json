@@ -3323,5 +3323,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-25T06:14:53.243732",
+    "icao24": "0c2074",
+    "callsign": "CMP613",
+    "latitude": 25.8375,
+    "longitude": -80.929,
+    "altitude_m": 10660.38,
+    "altitude_ft": 34975,
+    "velocity_ms": 241.77,
+    "heading": 183.66,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
