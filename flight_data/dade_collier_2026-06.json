@@ -3718,5 +3718,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-06-26T16:22:23.996635",
+    "icao24": "a2cb97",
+    "callsign": "AZY9022",
+    "latitude": 25.9175,
+    "longitude": -80.6561,
+    "altitude_m": 822.96,
+    "altitude_ft": 2700,
+    "velocity_ms": 83.34,
+    "heading": 46.75,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
