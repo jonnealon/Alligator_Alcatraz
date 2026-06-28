@@ -527,5 +527,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-06-28T11:12:18.442396",
+    "icao24": "a08696",
+    "callsign": "CAP823",
+    "latitude": 25.7831,
+    "longitude": -80.7667,
+    "altitude_m": 274.32,
+    "altitude_ft": 900,
+    "velocity_ms": 52.66,
+    "heading": 284.72,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
