@@ -1,1 +1,96 @@
-[]
+[
+  {
+    "timestamp": "2026-07-01T12:15:06.436577",
+    "icao24": "a21127",
+    "callsign": "ENY4301",
+    "latitude": 25.8121,
+    "longitude": -80.7736,
+    "altitude_m": 2141.22,
+    "altitude_ft": 7025,
+    "velocity_ms": 145.43,
+    "heading": 113.12,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-01T12:15:06.436624",
+    "icao24": "a6932d",
+    "callsign": "N5223R",
+    "latitude": 25.8913,
+    "longitude": -80.5835,
+    "altitude_m": 182.88,
+    "altitude_ft": 600,
+    "velocity_ms": 36.79,
+    "heading": 42.17,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-01T12:15:06.436642",
+    "icao24": "a213f3",
+    "callsign": "N233DC",
+    "latitude": 25.7899,
+    "longitude": -80.7472,
+    "altitude_m": 144.78,
+    "altitude_ft": 475,
+    "velocity_ms": 50.05,
+    "heading": 282.46,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-01T12:15:06.436655",
+    "icao24": "a58858",
+    "callsign": "N4559X",
+    "latitude": 25.8894,
+    "longitude": -81.0672,
+    "altitude_m": 1356.36,
+    "altitude_ft": 4450,
+    "velocity_ms": 60.71,
+    "heading": 179.03,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-01T12:15:06.436667",
+    "icao24": "ac9b8d",
+    "callsign": "N911MZ",
+    "latitude": 25.8918,
+    "longitude": -80.5922,
+    "altitude_m": 807.72,
+    "altitude_ft": 2650,
+    "velocity_ms": 45.07,
+    "heading": 218.05,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-01T12:15:06.436678",
+    "icao24": "a01db9",
+    "callsign": "BPX273",
+    "latitude": 25.9346,
+    "longitude": -80.682,
+    "altitude_m": 563.88,
+    "altitude_ft": 1850,
+    "velocity_ms": 47.86,
+    "heading": 25.46,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  }
+]
