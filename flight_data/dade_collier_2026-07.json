@@ -501,5 +501,20 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-04T15:12:42.038406",
+    "icao24": "aaf7fe",
+    "callsign": "N80585",
+    "latitude": 25.7754,
+    "longitude": -81.1909,
+    "altitude_m": 868.68,
+    "altitude_ft": 2850,
+    "velocity_ms": 53.66,
+    "heading": 94.4,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
