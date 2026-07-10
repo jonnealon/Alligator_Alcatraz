@@ -1364,5 +1364,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-10T11:12:05.610085",
+    "icao24": "a071ec",
+    "callsign": "FDX114",
+    "latitude": 25.788,
+    "longitude": -80.6289,
+    "altitude_m": 1501.14,
+    "altitude_ft": 4925,
+    "velocity_ms": 127.06,
+    "heading": 84.89,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
