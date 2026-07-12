@@ -2013,5 +2013,50 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-12T23:29:02.899007",
+    "icao24": "a34c58",
+    "callsign": "UPS5336",
+    "latitude": 25.9199,
+    "longitude": -81.0521,
+    "altitude_m": 3078.48,
+    "altitude_ft": 10100,
+    "velocity_ms": 165.44,
+    "heading": 115.61,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-12T23:29:02.899067",
+    "icao24": "a2c56d",
+    "callsign": "ENY3420",
+    "latitude": 25.7734,
+    "longitude": -80.6159,
+    "altitude_m": 1165.86,
+    "altitude_ft": 3825,
+    "velocity_ms": 95.28,
+    "heading": 87.21,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-12T23:29:02.899080",
+    "icao24": "a5b270",
+    "callsign": "N4661R",
+    "latitude": 25.7975,
+    "longitude": -80.6849,
+    "altitude_m": 548.64,
+    "altitude_ft": 1800,
+    "velocity_ms": 48.24,
+    "heading": 338.09,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
