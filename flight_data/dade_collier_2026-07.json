@@ -1998,5 +1998,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-12T18:28:58.148035",
+    "icao24": "a093bd",
+    "callsign": "LXJ95",
+    "latitude": 25.9036,
+    "longitude": -80.9344,
+    "altitude_m": 2415.54,
+    "altitude_ft": 7925,
+    "velocity_ms": 149.36,
+    "heading": 104.56,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
