@@ -202,5 +202,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-13T19:38:44.706663",
+    "icao24": "a9d28a",
+    "callsign": "XSR732",
+    "latitude": 25.9026,
+    "longitude": -80.6688,
+    "altitude_m": 434.34,
+    "altitude_ft": 1425,
+    "velocity_ms": 105.91,
+    "heading": 108.7,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
