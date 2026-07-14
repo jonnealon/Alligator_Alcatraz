@@ -2259,5 +2259,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-14T04:10:32.353399",
+    "icao24": "abe124",
+    "callsign": "SWA127",
+    "latitude": 25.8696,
+    "longitude": -80.7487,
+    "altitude_m": 1714.5,
+    "altitude_ft": 5625,
+    "velocity_ms": 135.7,
+    "heading": 51,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
