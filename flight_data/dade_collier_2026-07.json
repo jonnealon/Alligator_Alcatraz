@@ -2371,5 +2371,20 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-15T23:31:22.924320",
+    "icao24": "a3ca43",
+    "callsign": "UPS2310",
+    "latitude": 25.9464,
+    "longitude": -80.9608,
+    "altitude_m": 2964.18,
+    "altitude_ft": 9725,
+    "velocity_ms": 154.99,
+    "heading": 136.08,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
