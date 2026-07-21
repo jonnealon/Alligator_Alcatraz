@@ -2386,5 +2386,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-21T06:13:03.398870",
+    "icao24": "ad2386",
+    "callsign": "TAI580",
+    "latitude": 25.8093,
+    "longitude": -81.0219,
+    "altitude_m": 11277.6,
+    "altitude_ft": 37000,
+    "velocity_ms": 221.17,
+    "heading": 6.68,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
