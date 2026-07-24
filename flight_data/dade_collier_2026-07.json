@@ -3129,5 +3129,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-24T06:32:38.978912",
+    "icao24": "abb8ea",
+    "callsign": "SWA4859",
+    "latitude": 25.8897,
+    "longitude": -80.918,
+    "altitude_m": 2689.86,
+    "altitude_ft": 8825,
+    "velocity_ms": 147.41,
+    "heading": 105.59,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
