@@ -3514,5 +3514,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-25T17:07:45.233607",
+    "icao24": "ac696c",
+    "callsign": "SWA581",
+    "latitude": 25.7827,
+    "longitude": -80.6976,
+    "altitude_m": 1805.94,
+    "altitude_ft": 5925,
+    "velocity_ms": 123.75,
+    "heading": 113.26,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
