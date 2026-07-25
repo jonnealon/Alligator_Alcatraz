@@ -3559,5 +3559,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-25T22:28:15.636719",
+    "icao24": "a74865",
+    "callsign": "AMX421",
+    "latitude": 25.7771,
+    "longitude": -80.7575,
+    "altitude_m": 1798.32,
+    "altitude_ft": 5900,
+    "velocity_ms": 144.52,
+    "heading": 253.24,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
