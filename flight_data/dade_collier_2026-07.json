@@ -3771,5 +3771,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-26T22:04:44.101849",
+    "icao24": "ac5f23",
+    "callsign": "N8968W",
+    "latitude": 25.8438,
+    "longitude": -80.7383,
+    "altitude_m": 746.76,
+    "altitude_ft": 2450,
+    "velocity_ms": 67.41,
+    "heading": 63.24,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
