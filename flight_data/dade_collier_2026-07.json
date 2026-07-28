@@ -4124,5 +4124,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-28T21:13:52.407007",
+    "icao24": "a12aeb",
+    "callsign": "UAL2029",
+    "latitude": 25.8714,
+    "longitude": -80.6809,
+    "altitude_m": 3048,
+    "altitude_ft": 10000,
+    "velocity_ms": 154.62,
+    "heading": 66.68,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
