@@ -595,5 +595,22 @@
       "MILITARY"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-28T09:18:32.902145",
+    "icao24": "a7fa3b",
+    "callsign": "DAL2040",
+    "latitude": 25.8824,
+    "longitude": -80.9466,
+    "altitude_m": 4907.28,
+    "altitude_ft": 16100,
+    "velocity_ms": 181.06,
+    "heading": 110.8,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
