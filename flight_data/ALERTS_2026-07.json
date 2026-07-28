@@ -612,5 +612,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-28T14:25:31.069223",
+    "icao24": "a2a5a1",
+    "callsign": "N27RG",
+    "latitude": 25.8958,
+    "longitude": -80.7029,
+    "altitude_m": 457.2,
+    "altitude_ft": 1500,
+    "velocity_ms": 83.34,
+    "heading": 322.78,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
