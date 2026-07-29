@@ -647,5 +647,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-29T22:30:26.550052",
+    "icao24": "ae2731",
+    "callsign": "C2706",
+    "latitude": 25.7694,
+    "longitude": -80.619,
+    "altitude_m": 3634.74,
+    "altitude_ft": 11925,
+    "velocity_ms": 112.5,
+    "heading": 349.46,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "MILITARY"
+    ],
+    "is_alert": true
   }
 ]
