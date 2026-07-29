@@ -4352,5 +4352,20 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-29T21:03:32.268001",
+    "icao24": "ab41b6",
+    "callsign": "N824WL",
+    "latitude": 25.8617,
+    "longitude": -81.0965,
+    "altitude_m": 601.98,
+    "altitude_ft": 1975,
+    "velocity_ms": 89,
+    "heading": 89.34,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
