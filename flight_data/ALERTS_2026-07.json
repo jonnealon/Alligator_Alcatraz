@@ -664,5 +664,22 @@
       "MILITARY"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-07-30T06:33:31.627110",
+    "icao24": "a0ad6c",
+    "callsign": "ABX3182",
+    "latitude": 25.8607,
+    "longitude": -80.6226,
+    "altitude_m": 3596.64,
+    "altitude_ft": 11800,
+    "velocity_ms": 166,
+    "heading": 86.27,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
