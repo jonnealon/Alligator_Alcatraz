@@ -4808,5 +4808,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-07-31T15:04:17.204190",
+    "icao24": "a54261",
+    "callsign": "N438RV",
+    "latitude": 25.8482,
+    "longitude": -80.7963,
+    "altitude_m": 4625.34,
+    "altitude_ft": 15175,
+    "velocity_ms": 206.9,
+    "heading": 88.29,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
