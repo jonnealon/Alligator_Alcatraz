@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "2026-08-01T11:43:48.301976",
+    "icao24": "aaecff",
+    "callsign": "N80298",
+    "latitude": 25.7682,
+    "longitude": -80.6819,
+    "altitude_m": 213.36,
+    "altitude_ft": 700,
+    "velocity_ms": 47.3,
+    "heading": 315.88,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  }
+]
