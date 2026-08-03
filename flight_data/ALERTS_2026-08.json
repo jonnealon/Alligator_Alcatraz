@@ -151,5 +151,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-03T14:55:35.581711",
+    "icao24": "a88743",
+    "callsign": "N649GC",
+    "latitude": 25.8449,
+    "longitude": -80.6211,
+    "altitude_m": 480.06,
+    "altitude_ft": 1575,
+    "velocity_ms": 52.8,
+    "heading": 33.07,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
