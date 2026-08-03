@@ -134,5 +134,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-03T04:08:07.715663",
+    "icao24": "ac761e",
+    "callsign": "SWA4859",
+    "latitude": 25.9365,
+    "longitude": -81.0903,
+    "altitude_m": 3352.8,
+    "altitude_ft": 11000,
+    "velocity_ms": 181.77,
+    "heading": 115.84,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
