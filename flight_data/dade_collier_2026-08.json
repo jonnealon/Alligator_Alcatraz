@@ -1002,5 +1002,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-04T22:17:35.759610",
+    "icao24": "ac4917",
+    "callsign": "AMX420",
+    "latitude": 25.9121,
+    "longitude": -81.0839,
+    "altitude_m": 4640.58,
+    "altitude_ft": 15225,
+    "velocity_ms": 192.46,
+    "heading": 88.62,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
