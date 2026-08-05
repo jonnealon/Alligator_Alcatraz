@@ -1169,5 +1169,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-05T21:49:14.570781",
+    "icao24": "a0b725",
+    "callsign": "N145VG",
+    "latitude": 25.9363,
+    "longitude": -80.8313,
+    "altitude_m": 640.08,
+    "altitude_ft": 2100,
+    "velocity_ms": 108.62,
+    "heading": 95.98,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
