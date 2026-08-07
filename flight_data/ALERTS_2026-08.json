@@ -357,5 +357,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T13:50:56.098052",
+    "icao24": "a8981e",
+    "callsign": "VTE653",
+    "latitude": 25.9225,
+    "longitude": -80.6437,
+    "altitude_m": 449.58,
+    "altitude_ft": 1475,
+    "velocity_ms": 86.65,
+    "heading": 97.5,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
