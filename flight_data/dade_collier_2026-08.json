@@ -1619,5 +1619,99 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-07T14:59:32.635558",
+    "icao24": "a005c1",
+    "callsign": "N100LU",
+    "latitude": 25.8566,
+    "longitude": -80.6558,
+    "altitude_m": 563.88,
+    "altitude_ft": 1850,
+    "velocity_ms": 56.08,
+    "heading": 0.53,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-07T14:59:32.635601",
+    "icao24": "0d0983",
+    "callsign": "XAOFM",
+    "latitude": 25.9275,
+    "longitude": -80.6632,
+    "altitude_m": 784.86,
+    "altitude_ft": 2575,
+    "velocity_ms": 120.31,
+    "heading": 85.09,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-07T14:59:32.635614",
+    "icao24": "ae2709",
+    "callsign": "C2311",
+    "latitude": 25.9392,
+    "longitude": -81.1973,
+    "altitude_m": 1790.7,
+    "altitude_ft": 5875,
+    "velocity_ms": 85.12,
+    "heading": 97.64,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "MILITARY"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T14:59:32.635623",
+    "icao24": "ad3a7f",
+    "callsign": "AAL1875",
+    "latitude": 25.8249,
+    "longitude": -80.8068,
+    "altitude_m": 2164.08,
+    "altitude_ft": 7100,
+    "velocity_ms": 144.96,
+    "heading": 113.2,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-07T14:59:32.635631",
+    "icao24": "a3e51b",
+    "callsign": "N350DC",
+    "latitude": 25.861,
+    "longitude": -80.7597,
+    "altitude_m": 411.48,
+    "altitude_ft": 1350,
+    "velocity_ms": 81.3,
+    "heading": 178.91,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-07T14:59:32.635640",
+    "icao24": "a448d6",
+    "callsign": "UAL1358",
+    "latitude": 25.9147,
+    "longitude": -81.0403,
+    "altitude_m": 3086.1,
+    "altitude_ft": 10125,
+    "velocity_ms": 167.04,
+    "heading": 115.93,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
