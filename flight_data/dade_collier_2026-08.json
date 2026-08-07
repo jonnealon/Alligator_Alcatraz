@@ -1818,5 +1818,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-07T21:46:27.377216",
+    "icao24": "a7c2c1",
+    "callsign": "BIM2",
+    "latitude": 25.77,
+    "longitude": -80.7438,
+    "altitude_m": 723.9,
+    "altitude_ft": 2375,
+    "velocity_ms": 86.6,
+    "heading": 113.82,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
