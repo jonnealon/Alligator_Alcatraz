@@ -1998,5 +1998,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-08T14:07:10.684904",
+    "icao24": "aaecff",
+    "callsign": "N80298",
+    "latitude": 25.8222,
+    "longitude": -80.6365,
+    "altitude_m": 518.16,
+    "altitude_ft": 1700,
+    "velocity_ms": 42.38,
+    "heading": 169.51,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
