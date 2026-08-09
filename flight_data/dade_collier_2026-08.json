@@ -2503,5 +2503,20 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T10:41:03.833682",
+    "icao24": "addb4a",
+    "callsign": "AAL1890",
+    "latitude": 25.8277,
+    "longitude": -80.6719,
+    "altitude_m": 1508.76,
+    "altitude_ft": 4950,
+    "velocity_ms": 134.05,
+    "heading": 105.58,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
