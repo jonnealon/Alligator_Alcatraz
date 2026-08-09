@@ -2518,5 +2518,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-09T11:35:35.285501",
+    "icao24": "a515ad",
+    "callsign": "AAL3022",
+    "latitude": 25.8632,
+    "longitude": -80.7999,
+    "altitude_m": 2034.54,
+    "altitude_ft": 6675,
+    "velocity_ms": 119.92,
+    "heading": 88.28,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
