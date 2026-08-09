@@ -493,5 +493,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T14:08:20.266422",
+    "icao24": "a08696",
+    "callsign": "Unknown",
+    "latitude": 25.794,
+    "longitude": -80.7948,
+    "altitude_m": 754.38,
+    "altitude_ft": 2475,
+    "velocity_ms": 53.23,
+    "heading": 34.77,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "NO_CALLSIGN"
+    ],
+    "is_alert": true
   }
 ]
