@@ -442,5 +442,22 @@
       "NO_CALLSIGN"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-09T02:13:02.600141",
+    "icao24": "c05060",
+    "callsign": "ROU2105",
+    "latitude": 25.8886,
+    "longitude": -80.7529,
+    "altitude_m": 10972.8,
+    "altitude_ft": 36000,
+    "velocity_ms": 243.05,
+    "heading": 186.93,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
