@@ -629,5 +629,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-10T19:34:06.064528",
+    "icao24": "a7216d",
+    "callsign": "LXJ559",
+    "latitude": 25.9241,
+    "longitude": -80.6021,
+    "altitude_m": 388.62,
+    "altitude_ft": 1275,
+    "velocity_ms": 85.42,
+    "heading": 80.99,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
