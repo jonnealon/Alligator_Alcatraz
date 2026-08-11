@@ -714,5 +714,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-11T13:57:07.024494",
+    "icao24": "acc967",
+    "callsign": "OZN923",
+    "latitude": 25.8737,
+    "longitude": -80.7353,
+    "altitude_m": 441.96,
+    "altitude_ft": 1450,
+    "velocity_ms": 48.9,
+    "heading": 178.19,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
