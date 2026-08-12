@@ -816,5 +816,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-12T17:32:21.736836",
+    "icao24": "a324f4",
+    "callsign": "VNT301",
+    "latitude": 25.9176,
+    "longitude": -80.613,
+    "altitude_m": 449.58,
+    "altitude_ft": 1475,
+    "velocity_ms": 107.46,
+    "heading": 97.7,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
