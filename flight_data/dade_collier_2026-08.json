@@ -4101,5 +4101,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-12T15:07:46.866716",
+    "icao24": "a3eefb",
+    "callsign": "N35229",
+    "latitude": 25.788,
+    "longitude": -80.6421,
+    "altitude_m": 601.98,
+    "altitude_ft": 1975,
+    "velocity_ms": 53.86,
+    "heading": 186.58,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
