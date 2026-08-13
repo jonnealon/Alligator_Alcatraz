@@ -4825,5 +4825,22 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-13T22:19:41.653612",
+    "icao24": "ac4440",
+    "callsign": "N89P",
+    "latitude": 25.8653,
+    "longitude": -80.8261,
+    "altitude_m": 449.58,
+    "altitude_ft": 1475,
+    "velocity_ms": 98.99,
+    "heading": 61.44,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
