@@ -4887,5 +4887,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-14T00:08:59.606262",
+    "icao24": "aca59f",
+    "callsign": "OZN914",
+    "latitude": 25.8951,
+    "longitude": -80.7855,
+    "altitude_m": 777.24,
+    "altitude_ft": 2550,
+    "velocity_ms": 52.03,
+    "heading": 165.69,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
