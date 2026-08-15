@@ -1055,5 +1055,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-15T05:30:51.862731",
+    "icao24": "a43556",
+    "callsign": "N370RV",
+    "latitude": 25.8021,
+    "longitude": -80.6704,
+    "altitude_m": 2766.06,
+    "altitude_ft": 9075,
+    "velocity_ms": 149.95,
+    "heading": 29.38,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
