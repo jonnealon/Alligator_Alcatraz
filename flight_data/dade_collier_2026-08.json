@@ -5587,5 +5587,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-15T10:52:53.524788",
+    "icao24": "aafd90",
+    "callsign": "BBQ502",
+    "latitude": 25.8858,
+    "longitude": -80.5863,
+    "altitude_m": 4983.48,
+    "altitude_ft": 16350,
+    "velocity_ms": 200.15,
+    "heading": 232.1,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
