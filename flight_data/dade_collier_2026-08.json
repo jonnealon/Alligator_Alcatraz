@@ -6485,5 +6485,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-15T23:25:52.502945",
+    "icao24": "a121a2",
+    "callsign": "N172LN",
+    "latitude": 25.9406,
+    "longitude": -80.7635,
+    "altitude_m": 1005.84,
+    "altitude_ft": 3300,
+    "velocity_ms": 58.37,
+    "heading": 337.73,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
