@@ -1072,5 +1072,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-15T11:47:50.684450",
+    "icao24": "a57379",
+    "callsign": "N450PZ",
+    "latitude": 25.9228,
+    "longitude": -80.5847,
+    "altitude_m": 434.34,
+    "altitude_ft": 1425,
+    "velocity_ms": 101,
+    "heading": 102.05,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
