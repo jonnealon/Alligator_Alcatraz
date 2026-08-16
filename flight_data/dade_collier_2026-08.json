@@ -7069,5 +7069,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-16T15:27:41.519436",
+    "icao24": "a79556",
+    "callsign": "N588TN",
+    "latitude": 25.8712,
+    "longitude": -80.6811,
+    "altitude_m": 640.08,
+    "altitude_ft": 2100,
+    "velocity_ms": 118.58,
+    "heading": 80.01,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
