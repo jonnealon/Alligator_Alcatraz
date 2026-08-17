@@ -7981,5 +7981,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-17T19:32:47.678590",
+    "icao24": "a39657",
+    "callsign": "TXG850",
+    "latitude": 25.7921,
+    "longitude": -80.7235,
+    "altitude_m": 5775.96,
+    "altitude_ft": 18950,
+    "velocity_ms": 212.93,
+    "heading": 240.15,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
