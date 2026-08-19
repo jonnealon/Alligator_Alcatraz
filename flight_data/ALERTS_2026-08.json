@@ -1464,5 +1464,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T04:09:16.556774",
+    "icao24": "a1a89a",
+    "callsign": "KOW206",
+    "latitude": 25.8102,
+    "longitude": -80.7682,
+    "altitude_m": 2247.9,
+    "altitude_ft": 7375,
+    "velocity_ms": 154.69,
+    "heading": 112.9,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
