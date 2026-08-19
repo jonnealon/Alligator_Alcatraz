@@ -1515,5 +1515,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T12:58:41.766514",
+    "icao24": "ae61ca",
+    "callsign": "BANDT33",
+    "latitude": 25.884,
+    "longitude": -81.1906,
+    "altitude_m": 7315.2,
+    "altitude_ft": 24000,
+    "velocity_ms": 251.63,
+    "heading": 1.29,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "MILITARY"
+    ],
+    "is_alert": true
   }
 ]
