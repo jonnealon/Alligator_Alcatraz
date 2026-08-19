@@ -1532,5 +1532,22 @@
       "MILITARY"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-19T13:51:22.505701",
+    "icao24": "a868f3",
+    "callsign": "N641AA",
+    "latitude": 25.9207,
+    "longitude": -81.1017,
+    "altitude_m": 495.3,
+    "altitude_ft": 1625,
+    "velocity_ms": 54.18,
+    "heading": 157.09,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
