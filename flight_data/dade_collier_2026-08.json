@@ -9154,5 +9154,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-19T16:37:50.434657",
+    "icao24": "a0e93e",
+    "callsign": "N158PT",
+    "latitude": 25.7952,
+    "longitude": -80.838,
+    "altitude_m": 807.72,
+    "altitude_ft": 2650,
+    "velocity_ms": 54.81,
+    "heading": 150.79,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
