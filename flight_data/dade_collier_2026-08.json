@@ -10569,5 +10569,35 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-22T10:30:03.508129",
+    "icao24": "a75dc7",
+    "callsign": "FDX104",
+    "latitude": 25.8666,
+    "longitude": -80.8489,
+    "altitude_m": 2346.96,
+    "altitude_ft": 7700,
+    "velocity_ms": 143.27,
+    "heading": 101.39,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-22T10:30:03.508171",
+    "icao24": "aaeafd",
+    "callsign": "BBQ502",
+    "latitude": 25.8083,
+    "longitude": -80.6525,
+    "altitude_m": 5372.1,
+    "altitude_ft": 17625,
+    "velocity_ms": 194.41,
+    "heading": 251.8,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
