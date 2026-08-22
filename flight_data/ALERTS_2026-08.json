@@ -1719,5 +1719,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-22T11:26:01.843746",
+    "icao24": "ad4d97",
+    "callsign": "N9562H",
+    "latitude": 25.8478,
+    "longitude": -80.6338,
+    "altitude_m": 304.8,
+    "altitude_ft": 1000,
+    "velocity_ms": 31.39,
+    "heading": 179.06,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
