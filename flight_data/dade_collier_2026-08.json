@@ -11233,5 +11233,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-22T22:28:27.758035",
+    "icao24": "abc2af",
+    "callsign": "N857PS",
+    "latitude": 25.8802,
+    "longitude": -80.8545,
+    "altitude_m": 541.02,
+    "altitude_ft": 1775,
+    "velocity_ms": 70.48,
+    "heading": 90.42,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
