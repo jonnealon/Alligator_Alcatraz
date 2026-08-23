@@ -11357,5 +11357,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-23T11:26:02.319626",
+    "icao24": "a95dd3",
+    "callsign": "AAL1740",
+    "latitude": 25.8177,
+    "longitude": -80.7875,
+    "altitude_m": 2087.88,
+    "altitude_ft": 6850,
+    "velocity_ms": 141.04,
+    "heading": 113.2,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
