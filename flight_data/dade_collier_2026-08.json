@@ -11327,5 +11327,35 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-23T10:29:58.042747",
+    "icao24": "a64ce6",
+    "callsign": "DAL2040",
+    "latitude": 25.7748,
+    "longitude": -80.6763,
+    "altitude_m": 1546.86,
+    "altitude_ft": 5075,
+    "velocity_ms": 117.05,
+    "heading": 110.59,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-23T10:29:58.042785",
+    "icao24": "a4c2f8",
+    "callsign": "AAL2777",
+    "latitude": 25.8573,
+    "longitude": -80.8915,
+    "altitude_m": 2560.32,
+    "altitude_ft": 8400,
+    "velocity_ms": 150.5,
+    "heading": 113.15,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
