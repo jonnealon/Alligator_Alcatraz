@@ -12257,5 +12257,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-24T18:53:27.894568",
+    "icao24": "a9b65f",
+    "callsign": "N725CP",
+    "latitude": 25.8534,
+    "longitude": -81.0516,
+    "altitude_m": 1188.72,
+    "altitude_ft": 3900,
+    "velocity_ms": 88.08,
+    "heading": 322.59,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
