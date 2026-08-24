@@ -12319,5 +12319,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-24T20:37:45.051433",
+    "icao24": "a9da23",
+    "callsign": "KII3915",
+    "latitude": 25.7866,
+    "longitude": -80.7346,
+    "altitude_m": 6035.04,
+    "altitude_ft": 19800,
+    "velocity_ms": 211.44,
+    "heading": 242.94,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
