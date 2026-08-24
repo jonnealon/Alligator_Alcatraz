@@ -1855,5 +1855,57 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-24T16:04:47.459832",
+    "icao24": "acc967",
+    "callsign": "OZN923",
+    "latitude": 25.7759,
+    "longitude": -80.7448,
+    "altitude_m": 457.2,
+    "altitude_ft": 1500,
+    "velocity_ms": 48.55,
+    "heading": 295.75,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-24T16:04:47.459871",
+    "icao24": "aced2f",
+    "callsign": "Unknown",
+    "latitude": 25.7825,
+    "longitude": -80.7835,
+    "altitude_m": 274.32,
+    "altitude_ft": 900,
+    "velocity_ms": 56,
+    "heading": 336.73,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "NO_CALLSIGN",
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-24T16:04:47.459883",
+    "icao24": "ad0379",
+    "callsign": "OZN938",
+    "latitude": 25.7841,
+    "longitude": -80.6752,
+    "altitude_m": 205.74,
+    "altitude_ft": 675,
+    "velocity_ms": 39.26,
+    "heading": 84.74,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
