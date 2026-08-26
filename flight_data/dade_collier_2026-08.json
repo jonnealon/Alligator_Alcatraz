@@ -13254,5 +13254,20 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-26T11:57:35.519014",
+    "icao24": "a7c583",
+    "callsign": "N60GG",
+    "latitude": 25.8252,
+    "longitude": -80.6992,
+    "altitude_m": 6469.38,
+    "altitude_ft": 21225,
+    "velocity_ms": 186.08,
+    "heading": 214.52,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
