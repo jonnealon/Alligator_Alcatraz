@@ -2060,5 +2060,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-26T09:19:44.558038",
+    "icao24": "a1f0f1",
+    "callsign": "N224MA",
+    "latitude": 25.8602,
+    "longitude": -81.0562,
+    "altitude_m": 777.24,
+    "altitude_ft": 2550,
+    "velocity_ms": 55.82,
+    "heading": 279.55,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
