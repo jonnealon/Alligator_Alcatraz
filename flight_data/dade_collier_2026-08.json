@@ -13436,5 +13436,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-08-27T00:39:36.006775",
+    "icao24": "780a1d",
+    "callsign": "CPA2086",
+    "latitude": 25.8844,
+    "longitude": -80.9618,
+    "altitude_m": 2811.78,
+    "altitude_ft": 9225,
+    "velocity_ms": 150.18,
+    "heading": 112.35,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
