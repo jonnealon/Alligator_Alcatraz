@@ -13972,5 +13972,20 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-08-31T11:46:52.696594",
+    "icao24": "a23b5e",
+    "callsign": "N243CH",
+    "latitude": 25.8179,
+    "longitude": -80.6346,
+    "altitude_m": 3025.14,
+    "altitude_ft": 9925,
+    "velocity_ms": 71.3,
+    "heading": 351.29,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
