@@ -50,5 +50,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-02T23:58:37.647389",
+    "icao24": "ae26a5",
+    "callsign": "C6579",
+    "latitude": 25.8882,
+    "longitude": -80.7108,
+    "altitude_m": 518.16,
+    "altitude_ft": 1700,
+    "velocity_ms": 47.47,
+    "heading": 265.65,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "MILITARY"
+    ],
+    "is_alert": true
   }
 ]
