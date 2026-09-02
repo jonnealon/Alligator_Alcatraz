@@ -106,5 +106,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-09-02T00:56:51.857038",
+    "icao24": "a9d72d",
+    "callsign": "N733LC",
+    "latitude": 25.9253,
+    "longitude": -80.6633,
+    "altitude_m": 1196.34,
+    "altitude_ft": 3925,
+    "velocity_ms": 138.66,
+    "heading": 282.64,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
