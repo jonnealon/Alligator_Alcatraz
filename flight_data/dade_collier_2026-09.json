@@ -926,5 +926,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-09-06T17:17:27.145669",
+    "icao24": "a11901",
+    "callsign": "N17YG",
+    "latitude": 25.923,
+    "longitude": -81.1001,
+    "altitude_m": 1066.8,
+    "altitude_ft": 3500,
+    "velocity_ms": 65.85,
+    "heading": 180,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
