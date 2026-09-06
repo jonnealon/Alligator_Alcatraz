@@ -881,5 +881,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-09-06T00:46:18.617665",
+    "icao24": "c05030",
+    "callsign": "ROU1646",
+    "latitude": 25.7747,
+    "longitude": -80.5839,
+    "altitude_m": 1272.54,
+    "altitude_ft": 4175,
+    "velocity_ms": 121.08,
+    "heading": 86.83,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
