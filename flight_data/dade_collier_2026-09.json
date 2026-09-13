@@ -2012,5 +2012,35 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-09-13T20:37:36.957813",
+    "icao24": "aa69ee",
+    "callsign": "N770KF",
+    "latitude": 25.9066,
+    "longitude": -80.5875,
+    "altitude_m": 617.22,
+    "altitude_ft": 2025,
+    "velocity_ms": 113.97,
+    "heading": 112.28,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-09-13T20:37:36.957871",
+    "icao24": "acc3b4",
+    "callsign": "AAL2461",
+    "latitude": 25.8512,
+    "longitude": -80.8867,
+    "altitude_m": 2598.42,
+    "altitude_ft": 8525,
+    "velocity_ms": 135.96,
+    "heading": 174.35,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
