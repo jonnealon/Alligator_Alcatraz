@@ -2212,5 +2212,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-09-15T17:36:46.837301",
+    "icao24": "a88743",
+    "callsign": "N649GC",
+    "latitude": 25.7831,
+    "longitude": -80.7179,
+    "altitude_m": 556.26,
+    "altitude_ft": 1825,
+    "velocity_ms": 61.3,
+    "heading": 272.89,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
