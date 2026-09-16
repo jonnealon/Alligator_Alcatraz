@@ -307,5 +307,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-16T04:28:55.882027",
+    "icao24": "a3d3f0",
+    "callsign": "DAL1589",
+    "latitude": 25.7724,
+    "longitude": -80.6387,
+    "altitude_m": 1356.36,
+    "altitude_ft": 4450,
+    "velocity_ms": 110.75,
+    "heading": 87.07,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
