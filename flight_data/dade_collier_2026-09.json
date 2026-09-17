@@ -2338,5 +2338,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-09-17T00:16:26.088183",
+    "icao24": "a2fe21",
+    "callsign": "ENY3553",
+    "latitude": 25.8659,
+    "longitude": -80.8574,
+    "altitude_m": 2918.46,
+    "altitude_ft": 9575,
+    "velocity_ms": 147.48,
+    "heading": 104.13,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
