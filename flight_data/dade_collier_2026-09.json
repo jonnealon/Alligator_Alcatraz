@@ -2642,5 +2642,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-09-18T18:17:15.684922",
+    "icao24": "ac9e31",
+    "callsign": "OZN912",
+    "latitude": 25.8911,
+    "longitude": -81.0509,
+    "altitude_m": 1188.72,
+    "altitude_ft": 3900,
+    "velocity_ms": 52.23,
+    "heading": 297.57,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
