@@ -3330,5 +3330,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-09-22T23:45:06.653826",
+    "icao24": "ababb9",
+    "callsign": "N851GV",
+    "latitude": 25.9415,
+    "longitude": -81.0402,
+    "altitude_m": 2087.88,
+    "altitude_ft": 6850,
+    "velocity_ms": 149.51,
+    "heading": 45.14,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
