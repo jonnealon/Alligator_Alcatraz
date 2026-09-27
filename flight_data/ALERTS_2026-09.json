@@ -617,5 +617,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-09-27T21:12:48.757698",
+    "icao24": "a332b4",
+    "callsign": "N305JG",
+    "latitude": 25.8643,
+    "longitude": -80.6084,
+    "altitude_m": 320.04,
+    "altitude_ft": 1050,
+    "velocity_ms": 67.06,
+    "heading": 73.51,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
