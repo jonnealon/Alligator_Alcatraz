@@ -4129,5 +4129,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-09-27T23:53:22.377381",
+    "icao24": "a2cf52",
+    "callsign": "N280PT",
+    "latitude": 25.7995,
+    "longitude": -80.7713,
+    "altitude_m": 777.24,
+    "altitude_ft": 2550,
+    "velocity_ms": 44.39,
+    "heading": 315.94,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
