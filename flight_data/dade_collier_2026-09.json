@@ -3977,5 +3977,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-09-27T01:16:28.168265",
+    "icao24": "a4e287",
+    "callsign": "N4136Z",
+    "latitude": 25.8632,
+    "longitude": -80.9888,
+    "altitude_m": 1402.08,
+    "altitude_ft": 4600,
+    "velocity_ms": 89.91,
+    "heading": 112.9,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
