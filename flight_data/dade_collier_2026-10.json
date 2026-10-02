@@ -124,5 +124,100 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-02T16:11:02.196169",
+    "icao24": "accd1e",
+    "callsign": "OZN924",
+    "latitude": 25.8412,
+    "longitude": -80.9281,
+    "altitude_m": 1112.52,
+    "altitude_ft": 3650,
+    "velocity_ms": 58.77,
+    "heading": 293.2,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-10-02T16:11:02.196212",
+    "icao24": "a2cf52",
+    "callsign": "N280PT",
+    "latitude": 25.8484,
+    "longitude": -80.7431,
+    "altitude_m": 396.24,
+    "altitude_ft": 1300,
+    "velocity_ms": 63.26,
+    "heading": 301.36,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-02T16:11:02.196230",
+    "icao24": "0c4144",
+    "callsign": "HI955",
+    "latitude": 25.8349,
+    "longitude": -80.8338,
+    "altitude_m": 1516.38,
+    "altitude_ft": 4975,
+    "velocity_ms": 104.65,
+    "heading": 83.22,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-10-02T16:11:02.196243",
+    "icao24": "0d0d41",
+    "callsign": "VOI1790",
+    "latitude": 25.7832,
+    "longitude": -80.6295,
+    "altitude_m": 1455.42,
+    "altitude_ft": 4775,
+    "velocity_ms": 116.26,
+    "heading": 97.63,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-10-02T16:11:02.196255",
+    "icao24": "ae269a",
+    "callsign": "C6568",
+    "latitude": 25.8594,
+    "longitude": -80.9175,
+    "altitude_m": 137.16,
+    "altitude_ft": 450,
+    "velocity_ms": 36.12,
+    "heading": 26.2,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "MILITARY",
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-02T16:11:02.196265",
+    "icao24": "a45f59",
+    "callsign": "DAL2507",
+    "latitude": 25.8719,
+    "longitude": -80.9018,
+    "altitude_m": 2606.04,
+    "altitude_ft": 8550,
+    "velocity_ms": 137.15,
+    "heading": 107.69,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
