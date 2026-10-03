@@ -84,5 +84,23 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-03T00:19:56.194966",
+    "icao24": "ae2689",
+    "callsign": "C6551",
+    "latitude": 25.8845,
+    "longitude": -80.6195,
+    "altitude_m": 137.16,
+    "altitude_ft": 450,
+    "velocity_ms": 43.29,
+    "heading": 86.59,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "MILITARY",
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
