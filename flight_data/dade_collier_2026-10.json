@@ -297,5 +297,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-10-03T11:28:40.380098",
+    "icao24": "a2f5b8",
+    "callsign": "ABX901",
+    "latitude": 25.9322,
+    "longitude": -81.08,
+    "altitude_m": 3223.26,
+    "altitude_ft": 10575,
+    "velocity_ms": 147.71,
+    "heading": 116.03,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
