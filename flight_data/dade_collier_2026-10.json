@@ -772,5 +772,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-10-07T20:31:22.873264",
+    "icao24": "0c21f9",
+    "callsign": "CMP265",
+    "latitude": 25.8375,
+    "longitude": -80.7919,
+    "altitude_m": 1790.7,
+    "altitude_ft": 5875,
+    "velocity_ms": 146.96,
+    "heading": 45.28,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
