@@ -895,5 +895,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-10-09T01:07:13.908100",
+    "icao24": "a2a7b5",
+    "callsign": "ENY4225",
+    "latitude": 25.8612,
+    "longitude": -80.6194,
+    "altitude_m": 1661.16,
+    "altitude_ft": 5450,
+    "velocity_ms": 109.45,
+    "heading": 85.15,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
