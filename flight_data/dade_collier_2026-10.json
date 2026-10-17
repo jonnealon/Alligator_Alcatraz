@@ -2102,5 +2102,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-10-17T16:56:59.193952",
+    "icao24": "c0153b",
+    "callsign": "WJA2709",
+    "latitude": 25.8739,
+    "longitude": -81.0116,
+    "altitude_m": 10668,
+    "altitude_ft": 35000,
+    "velocity_ms": 239.31,
+    "heading": 5.55,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
