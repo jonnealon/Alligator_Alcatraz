@@ -2410,5 +2410,20 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-19T11:07:51.260651",
+    "icao24": "e07594",
+    "callsign": "LVGVT",
+    "latitude": 25.9391,
+    "longitude": -80.898,
+    "altitude_m": 2110.74,
+    "altitude_ft": 6925,
+    "velocity_ms": 144.61,
+    "heading": 30.58,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
