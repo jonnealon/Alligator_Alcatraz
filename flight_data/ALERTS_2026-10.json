@@ -501,5 +501,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-21T04:20:36.797104",
+    "icao24": "a53dac",
+    "callsign": "FFT1280",
+    "latitude": 25.7853,
+    "longitude": -80.7027,
+    "altitude_m": 1645.92,
+    "altitude_ft": 5400,
+    "velocity_ms": 129.49,
+    "heading": 113.41,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
