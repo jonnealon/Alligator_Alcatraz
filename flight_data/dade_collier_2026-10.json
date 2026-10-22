@@ -3102,5 +3102,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-10-22T17:31:39.267836",
+    "icao24": "a1930e",
+    "callsign": "EJM620",
+    "latitude": 25.8674,
+    "longitude": -80.9172,
+    "altitude_m": 2727.96,
+    "altitude_ft": 8950,
+    "velocity_ms": 148.2,
+    "heading": 113.09,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
