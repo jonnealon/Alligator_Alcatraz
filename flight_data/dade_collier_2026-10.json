@@ -3226,5 +3226,20 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-23T10:25:42.225720",
+    "icao24": "0d0bff",
+    "callsign": "AMX425",
+    "latitude": 25.7847,
+    "longitude": -80.6798,
+    "altitude_m": 1828.8,
+    "altitude_ft": 6000,
+    "velocity_ms": 141.48,
+    "heading": 270.42,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
