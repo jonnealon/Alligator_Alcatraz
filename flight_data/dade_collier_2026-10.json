@@ -3376,5 +3376,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-10-24T14:48:24.119038",
+    "icao24": "abb172",
+    "callsign": "SWA4490",
+    "latitude": 25.8959,
+    "longitude": -80.992,
+    "altitude_m": 2994.66,
+    "altitude_ft": 9825,
+    "velocity_ms": 157.46,
+    "heading": 112.88,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
