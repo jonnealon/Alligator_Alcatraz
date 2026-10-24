@@ -3436,5 +3436,20 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-10-24T21:06:30.037876",
+    "icao24": "abba43",
+    "callsign": "DAL1733",
+    "latitude": 25.8534,
+    "longitude": -80.7191,
+    "altitude_m": 2057.4,
+    "altitude_ft": 6750,
+    "velocity_ms": 134.19,
+    "heading": 85.38,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
