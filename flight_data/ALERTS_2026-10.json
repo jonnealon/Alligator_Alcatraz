@@ -586,5 +586,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-25T09:18:57.222834",
+    "icao24": "ad3c48",
+    "callsign": "NCR692",
+    "latitude": 25.8864,
+    "longitude": -80.814,
+    "altitude_m": 1828.8,
+    "altitude_ft": 6000,
+    "velocity_ms": 125.83,
+    "heading": 176.01,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
