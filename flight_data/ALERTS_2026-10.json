@@ -637,5 +637,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-27T20:53:02.797865",
+    "icao24": "a6b0f5",
+    "callsign": "VELUX53",
+    "latitude": 25.8904,
+    "longitude": -80.7434,
+    "altitude_m": 495.3,
+    "altitude_ft": 1625,
+    "velocity_ms": 99.07,
+    "heading": 94.47,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
