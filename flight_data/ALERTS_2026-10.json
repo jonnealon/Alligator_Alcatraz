@@ -620,5 +620,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-27T00:19:06.973539",
+    "icao24": "a7e297",
+    "callsign": "N607PT",
+    "latitude": 25.801,
+    "longitude": -80.6311,
+    "altitude_m": 426.72,
+    "altitude_ft": 1400,
+    "velocity_ms": 52.87,
+    "heading": 169.35,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
