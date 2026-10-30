@@ -739,5 +739,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-10-30T01:47:23.487959",
+    "icao24": "abede6",
+    "callsign": "N868PT",
+    "latitude": 25.8643,
+    "longitude": -80.6096,
+    "altitude_m": 381,
+    "altitude_ft": 1250,
+    "velocity_ms": 51.14,
+    "heading": 143.59,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
