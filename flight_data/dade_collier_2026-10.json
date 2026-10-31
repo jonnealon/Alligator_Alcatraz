@@ -4568,5 +4568,35 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-10-31T16:16:04.725873",
+    "icao24": "0d0bbe",
+    "callsign": "VOI1790",
+    "latitude": 25.899,
+    "longitude": -80.9994,
+    "altitude_m": 2933.7,
+    "altitude_ft": 9625,
+    "velocity_ms": 150.1,
+    "heading": 112.79,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-10-31T16:16:04.725922",
+    "icao24": "a08696",
+    "callsign": "CAP823",
+    "latitude": 25.8384,
+    "longitude": -80.6355,
+    "altitude_m": 739.14,
+    "altitude_ft": 2425,
+    "velocity_ms": 55.6,
+    "heading": 218.99,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
