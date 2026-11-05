@@ -50,5 +50,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-05T21:52:36.207947",
+    "icao24": "a3333c",
+    "callsign": "N305PT",
+    "latitude": 25.7697,
+    "longitude": -80.6889,
+    "altitude_m": 487.68,
+    "altitude_ft": 1600,
+    "velocity_ms": 53.5,
+    "heading": 270,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
