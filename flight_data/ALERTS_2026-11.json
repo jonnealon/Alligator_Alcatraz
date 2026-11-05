@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-11-05T00:15:21.918776",
+    "icao24": "ae2237",
+    "callsign": "C2301",
+    "latitude": 25.8384,
+    "longitude": -80.6193,
+    "altitude_m": 457.2,
+    "altitude_ft": 1500,
+    "velocity_ms": 96.69,
+    "heading": 61.39,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "MILITARY",
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  }
+]
