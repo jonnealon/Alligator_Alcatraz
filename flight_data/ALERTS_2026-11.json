@@ -84,5 +84,22 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-06T17:19:36.075214",
+    "icao24": "a40de9",
+    "callsign": "SCM36",
+    "latitude": 25.9262,
+    "longitude": -80.709,
+    "altitude_m": 487.68,
+    "altitude_ft": 1600,
+    "velocity_ms": 134.7,
+    "heading": 96.8,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
