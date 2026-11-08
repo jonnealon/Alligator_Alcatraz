@@ -956,5 +956,52 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-11-08T18:26:52.210461",
+    "icao24": "addb4a",
+    "callsign": "AAL2232",
+    "latitude": 25.8387,
+    "longitude": -80.8427,
+    "altitude_m": 2385.06,
+    "altitude_ft": 7825,
+    "velocity_ms": 144.96,
+    "heading": 113.2,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-11-08T18:26:52.210500",
+    "icao24": "a24609",
+    "callsign": "N2458G",
+    "latitude": 25.8791,
+    "longitude": -80.6484,
+    "altitude_m": 396.24,
+    "altitude_ft": 1300,
+    "velocity_ms": 44.29,
+    "heading": 357.34,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-08T18:26:52.210509",
+    "icao24": "0d0fdc",
+    "callsign": "XAKAR",
+    "latitude": 25.9136,
+    "longitude": -80.584,
+    "altitude_m": 594.36,
+    "altitude_ft": 1950,
+    "velocity_ms": 129.42,
+    "heading": 96.39,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
