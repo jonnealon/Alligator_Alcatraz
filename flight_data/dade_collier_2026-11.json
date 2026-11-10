@@ -1264,5 +1264,20 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-10T11:38:12.353645",
+    "icao24": "a0c3fc",
+    "callsign": "ABX3143",
+    "latitude": 25.8655,
+    "longitude": -80.8818,
+    "altitude_m": 2293.62,
+    "altitude_ft": 7525,
+    "velocity_ms": 150.33,
+    "heading": 101.85,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
