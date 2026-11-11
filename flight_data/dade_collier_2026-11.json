@@ -1386,5 +1386,102 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-11-11T15:59:58.593414",
+    "icao24": "acdaec",
+    "callsign": "N9273",
+    "latitude": 25.9341,
+    "longitude": -80.7473,
+    "altitude_m": 1150.62,
+    "altitude_ft": 3775,
+    "velocity_ms": 120.79,
+    "heading": 97.09,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-11-11T15:59:58.593443",
+    "icao24": "ae2709",
+    "callsign": "C2311",
+    "latitude": 25.8616,
+    "longitude": -80.946,
+    "altitude_m": 220.98,
+    "altitude_ft": 725,
+    "velocity_ms": 66.38,
+    "heading": 88.67,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "MILITARY",
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-11T15:59:58.593450",
+    "icao24": "ae269f",
+    "callsign": "Unknown",
+    "latitude": 25.9116,
+    "longitude": -80.8379,
+    "altitude_m": 114.3,
+    "altitude_ft": 375,
+    "velocity_ms": 42.07,
+    "heading": 78,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "NO_CALLSIGN",
+      "MILITARY",
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-11T15:59:58.593456",
+    "icao24": "a3e658",
+    "callsign": "AAL1498",
+    "latitude": 25.8793,
+    "longitude": -80.9486,
+    "altitude_m": 2903.22,
+    "altitude_ft": 9525,
+    "velocity_ms": 151.92,
+    "heading": 112.92,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-11-11T15:59:58.593460",
+    "icao24": "a63193",
+    "callsign": "AMX412",
+    "latitude": 25.8393,
+    "longitude": -80.8244,
+    "altitude_m": 2354.58,
+    "altitude_ft": 7725,
+    "velocity_ms": 147.6,
+    "heading": 83.4,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-11-11T15:59:58.593465",
+    "icao24": "a0b4a5",
+    "callsign": "N1445T",
+    "latitude": 25.7742,
+    "longitude": -80.8844,
+    "altitude_m": 701.04,
+    "altitude_ft": 2300,
+    "velocity_ms": 56.74,
+    "heading": 184.16,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
