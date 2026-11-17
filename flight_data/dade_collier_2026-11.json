@@ -2031,5 +2031,50 @@
       "AFTER_HOURS"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-17T19:43:06.492001",
+    "icao24": "a5703e",
+    "callsign": "N45EY",
+    "latitude": 25.9254,
+    "longitude": -81.065,
+    "altitude_m": 3154.68,
+    "altitude_ft": 10350,
+    "velocity_ms": 147.72,
+    "heading": 115.58,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-11-17T19:43:06.492044",
+    "icao24": "a27aab",
+    "callsign": "GPD259",
+    "latitude": 25.8641,
+    "longitude": -80.7214,
+    "altitude_m": 861.06,
+    "altitude_ft": 2825,
+    "velocity_ms": 98.6,
+    "heading": 136.06,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-11-17T19:43:06.492054",
+    "icao24": "a708b0",
+    "callsign": "AAL1562",
+    "latitude": 25.8108,
+    "longitude": -80.6509,
+    "altitude_m": 4983.48,
+    "altitude_ft": 16350,
+    "velocity_ms": 187.81,
+    "heading": 249.98,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
