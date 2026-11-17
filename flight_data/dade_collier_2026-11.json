@@ -2014,5 +2014,22 @@
       "LOW_ALTITUDE"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-17T10:34:35.188006",
+    "icao24": "a5c127",
+    "callsign": "AAL2142",
+    "latitude": 25.9073,
+    "longitude": -81.0199,
+    "altitude_m": 3055.62,
+    "altitude_ft": 10025,
+    "velocity_ms": 155.24,
+    "heading": 112.4,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "AFTER_HOURS"
+    ],
+    "is_alert": true
   }
 ]
