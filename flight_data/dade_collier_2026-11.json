@@ -1996,5 +1996,23 @@
     "status": "CRUISING",
     "alerts": [],
     "is_alert": false
+  },
+  {
+    "timestamp": "2026-11-17T01:59:32.394816",
+    "icao24": "ae4bf0",
+    "callsign": "C2316",
+    "latitude": 25.8599,
+    "longitude": -80.8932,
+    "altitude_m": 388.62,
+    "altitude_ft": 1275,
+    "velocity_ms": 74.74,
+    "heading": 356.45,
+    "on_ground": false,
+    "status": "LOW_ALTITUDE",
+    "alerts": [
+      "MILITARY",
+      "LOW_ALTITUDE"
+    ],
+    "is_alert": true
   }
 ]
