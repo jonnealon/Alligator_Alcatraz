@@ -2413,5 +2413,50 @@
       "MILITARY"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-21T21:00:59.672293",
+    "icao24": "a68fb0",
+    "callsign": "N5215D",
+    "latitude": 25.8116,
+    "longitude": -80.6378,
+    "altitude_m": 670.56,
+    "altitude_ft": 2200,
+    "velocity_ms": 39.07,
+    "heading": 170.91,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-11-21T21:00:59.672331",
+    "icao24": "a09e24",
+    "callsign": "N139RN",
+    "latitude": 25.8522,
+    "longitude": -80.828,
+    "altitude_m": 5036.82,
+    "altitude_ft": 16525,
+    "velocity_ms": 149.74,
+    "heading": 328.06,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
+  },
+  {
+    "timestamp": "2026-11-21T21:00:59.672344",
+    "icao24": "0c208e",
+    "callsign": "CMP459",
+    "latitude": 25.942,
+    "longitude": -80.8421,
+    "altitude_m": 10668,
+    "altitude_ft": 35000,
+    "velocity_ms": 231.6,
+    "heading": 143.31,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [],
+    "is_alert": false
   }
 ]
