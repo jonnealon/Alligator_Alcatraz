@@ -328,5 +328,22 @@
       "MILITARY"
     ],
     "is_alert": true
+  },
+  {
+    "timestamp": "2026-11-22T17:00:50.164478",
+    "icao24": "ad4891",
+    "callsign": "Unknown",
+    "latitude": 25.9049,
+    "longitude": -81.0376,
+    "altitude_m": 670.56,
+    "altitude_ft": 2200,
+    "velocity_ms": 49.01,
+    "heading": 309.04,
+    "on_ground": false,
+    "status": "CRUISING",
+    "alerts": [
+      "NO_CALLSIGN"
+    ],
+    "is_alert": true
   }
 ]
